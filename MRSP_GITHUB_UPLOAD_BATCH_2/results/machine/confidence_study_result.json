@@ -1,0 +1,386 @@
+{
+  "campaign": "MRSP_PHCM_CONFIDENCE_SIMPLE_V1",
+  "execution_status": "RUN_PASS",
+  "semantic_status": "SEMANTIC_PASS",
+  "elapsed_seconds": 48.17584649997298,
+  "semantic_checks": {
+    "six_forward_blocks": true,
+    "B1_B2_only_complexity_test": true,
+    "four_future_accuracy_methods": true,
+    "five_event_calibration_methods": true,
+    "test_labels_not_used_for_same_block_fit": true,
+    "practical_threshold_not_stat_sig_only": true
+  },
+  "source_validation": [
+    {
+      "set_id": "B01",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ9\\cat\\S02",
+      "source_set": "S02",
+      "source_root": "cj9"
+    },
+    {
+      "set_id": "B02",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ9\\cat\\S03",
+      "source_set": "S03",
+      "source_root": "cj9"
+    },
+    {
+      "set_id": "B03",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ9_REPLAN\\cat\\R01",
+      "source_set": "R01",
+      "source_root": "cj9_replan"
+    },
+    {
+      "set_id": "M01",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\M01",
+      "source_set": "M01",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "M02",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\M02",
+      "source_set": "M02",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "M03",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\M03",
+      "source_set": "M03",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "H01",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\H01",
+      "source_set": "H01",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "H02",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\H02",
+      "source_set": "H02",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "H03",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\H03",
+      "source_set": "H03",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "C01",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\L01",
+      "source_set": "L01",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "C02",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\L02",
+      "source_set": "L02",
+      "source_root": "cj11"
+    },
+    {
+      "set_id": "C03",
+      "ok": true,
+      "checks": {
+        "group_name_exact": true,
+        "candidate_products_exact_order": true,
+        "n_alternatives_6": true,
+        "events_nonempty": true,
+        "choice_idx_range": true,
+        "product_membership": true,
+        "one_event_per_basket": true
+      },
+      "path": "C:\\MR\\data\\CJ11\\cat\\L03",
+      "source_set": "L03",
+      "source_root": "cj11"
+    }
+  ],
+  "practical_decision": {
+    "verdict": "KEEP_B1_SIMPLE_DEFAULT",
+    "pooled_nonzero": {
+      "B1": {
+        "n": 26659,
+        "accuracy": 0.6442102104355002,
+        "log_score": -0.9356819530095529
+      },
+      "B2": {
+        "n": 26659,
+        "accuracy": 0.6568138339772684,
+        "log_score": -0.9156188039670093
+      },
+      "delta_pp": 1.260362354176825
+    },
+    "household_bootstrap": {
+      "n_boot": 600,
+      "n_clusters": 1960,
+      "accuracy_delta": {
+        "mean": 0.012648560176954891,
+        "p2_5": 0.008568117637270833,
+        "p97_5": 0.016574566091065744
+      },
+      "log_score_delta": {
+        "mean": 0.02009182851895052,
+        "p2_5": 0.016721530268502288,
+        "p97_5": 0.02298824930828804
+      }
+    },
+    "week_bootstrap": {
+      "n_boot": 600,
+      "n_clusters": 26,
+      "accuracy_delta": {
+        "mean": 0.012610521783445764,
+        "p2_5": 0.007541212390819858,
+        "p97_5": 0.017492251279117316
+      },
+      "log_score_delta": {
+        "mean": 0.02002265619020101,
+        "p2_5": 0.014529156555886845,
+        "p97_5": 0.0259287714348075
+      }
+    },
+    "positive_products": 7,
+    "major_harm_products": 0,
+    "positive_blocks": 4,
+    "rules": {
+      "material_gain_pp": 3.0,
+      "strong_gain_pp": 5.0,
+      "major_harm_pp": -3.0,
+      "min_positive_products": 6,
+      "max_major_harm_products": 0,
+      "min_positive_blocks": 4,
+      "bootstrap_n": 600,
+      "seed": 20260921
+    }
+  },
+  "accuracy_forecast_scoreboard": [
+    {
+      "method": "CUMULATIVE_CELL",
+      "n_cells": 450,
+      "n_events": 57776,
+      "mae_pp": 7.128299509833324,
+      "bias_pp": 1.3013515063573806,
+      "coverage80": 0.953187250996016,
+      "width80_pp": 49.13983371231834,
+      "coverage90": 0.9927897107223281,
+      "width90_pp": 68.63868705078727
+    },
+    {
+      "method": "HIER_BETA",
+      "n_cells": 450,
+      "n_events": 57776,
+      "mae_pp": 7.124506337096753,
+      "bias_pp": 0.9367862409002501,
+      "coverage80": 0.24908266408197174,
+      "width80_pp": 4.733727781451453,
+      "coverage90": 0.33517377457767933,
+      "width90_pp": 6.071135914562486
+    },
+    {
+      "method": "HIER_BETA_DRIFT",
+      "n_cells": 450,
+      "n_events": 57776,
+      "mae_pp": 6.297465770028175,
+      "bias_pp": 0.8143411130888961,
+      "coverage80": 0.7170624480753254,
+      "width80_pp": 15.789812312958565,
+      "coverage90": 0.7517308224868458,
+      "width90_pp": 17.127220446069597
+    },
+    {
+      "method": "RECENT_2BLOCK",
+      "n_cells": 450,
+      "n_events": 57776,
+      "mae_pp": 6.867350528355116,
+      "bias_pp": 0.8062705198222612,
+      "coverage80": 0.9628659275939719,
+      "width80_pp": 48.042715198782226,
+      "coverage90": 0.9857526416074831,
+      "width90_pp": 68.03228384034718
+    }
+  ],
+  "calibration_scoreboard": [
+    {
+      "model": "B1",
+      "method": "BETA",
+      "n_events": 26659,
+      "brier": 0.1958268796010149,
+      "ece": 0.034520958926685094
+    },
+    {
+      "model": "B1",
+      "method": "ISOTONIC",
+      "n_events": 26659,
+      "brier": 0.19642977877540116,
+      "ece": 0.038534958146678434
+    },
+    {
+      "model": "B1",
+      "method": "ISOTONIC_DRIFT",
+      "n_events": 26659,
+      "brier": 0.1966833579843354,
+      "ece": 0.043388789021084284
+    },
+    {
+      "model": "B1",
+      "method": "PLATT",
+      "n_events": 26659,
+      "brier": 0.1957326043288625,
+      "ece": 0.033052508718137676
+    },
+    {
+      "model": "B1",
+      "method": "RAW",
+      "n_events": 26659,
+      "brier": 0.19493574572639924,
+      "ece": 0.027580488939896692
+    },
+    {
+      "model": "B2",
+      "method": "BETA",
+      "n_events": 26659,
+      "brier": 0.1892910157586199,
+      "ece": 0.025614718657058725
+    },
+    {
+      "model": "B2",
+      "method": "ISOTONIC",
+      "n_events": 26659,
+      "brier": 0.1897269375094259,
+      "ece": 0.024898754055177896
+    },
+    {
+      "model": "B2",
+      "method": "ISOTONIC_DRIFT",
+      "n_events": 26659,
+      "brier": 0.19044807494064647,
+      "ece": 0.03519376939050487
+    },
+    {
+      "model": "B2",
+      "method": "PLATT",
+      "n_events": 26659,
+      "brier": 0.18927413943071514,
+      "ece": 0.025278332893071586
+    },
+    {
+      "model": "B2",
+      "method": "RAW",
+      "n_events": 26659,
+      "brier": 0.18956878188652876,
+      "ece": 0.028400190266325176
+    }
+  ],
+  "evidence_cap": "HISTORICAL_WALK_FORWARD_WITHIN_PANEL",
+  "panel_sha256": "82bec38976ff8c78b2343e0e1b20f7e459b6c8aeab370c93cd2713f2b92ba38a",
+  "study_sha256": "1d44cdbae8ca07eb7133b1e1abc9e9447b9eb5f54d59cba9ae8db968b23ab402"
+}

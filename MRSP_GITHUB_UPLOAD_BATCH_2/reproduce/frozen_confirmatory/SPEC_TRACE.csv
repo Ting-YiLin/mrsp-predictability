@@ -1,0 +1,11 @@
+rule_id,spec_file,implementation_file,implementation_anchor,evidence_file,evidence_anchor
+R01,CONTRACT.md,code/materialize_confirmatory.py,PRIOR_GEN1_RECONSTRUCTION_MISMATCH,tools/preflight.py,no_prior_overlap
+R02,CONTRACT.md,code/materialize_confirmatory.py,"range(1,23)",tools/preflight.py,future_outcome_free_selection
+R03,CONTRACT.md,code/materialize_confirmatory.py,REPRESENTATIVE,tools/preflight.py,n_representative
+R04,CONTRACT.md,code/materialize_confirmatory.py,DEPARTMENT_CHALLENGE,tools/preflight.py,n_department_challenge
+R05,CONTRACT.md,code/run_confirmatory.py,frozen_p1_cutoffs.json,code/run_confirmatory.py,p1_cutoffs_recalibrated
+R06,CONTRACT.md,code/run_confirmatory.py,GLOBAL_P1_B1,code/run_confirmatory.py,confirmation_scorecard.json
+R07,CONTRACT.md,code/run_confirmatory.py,GLOBAL_SIMPLE_ACTION,code/run_confirmatory.py,GLOBAL_SIMPLE_ACTION
+R08,CONTRACT.md,cfg/frozen_core_hashes.json,code/predictability.py,test/test_frozen_rules.py,FROZEN_RULES_PASS
+R09,CONTRACT.md,tools/run_pipeline.py,RESUME_IDENTITY_MISMATCH,tools/run_pipeline.py,source_identity
+R10,CONTRACT.md,code/run_confirmatory.py,product_bootstrap,code/run_confirmatory.py,department_summary

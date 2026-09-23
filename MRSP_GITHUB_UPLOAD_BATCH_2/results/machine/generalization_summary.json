@@ -1,0 +1,328 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_GENERALIZATION_V1",
+  "execution_status": "RUN_PASS",
+  "semantic_status": "SEMANTIC_PASS",
+  "evidence_cap": "NEW_PRODUCT_WITHIN_PANEL_WALK_FORWARD_GENERALIZATION",
+  "generalization_grade": "EXPLORATORY_SUPPORT",
+  "breadth_grade": "CONFIRMATORY_BREADTH",
+  "n_new_sets": 100,
+  "n_new_events": 52854,
+  "global_cutoffs": {
+    "0.6": {
+      "cutoff": 0.3608488067145302,
+      "coverage_actual_hist": 0.640718046086131,
+      "hist_accuracy": 0.6905980603448276,
+      "n_hist": 7424,
+      "qualifying_products": 9,
+      "hit_products": 7,
+      "hit_fraction": 0.7777777777777778,
+      "balanced_across_products": true
+    },
+    "0.7": {
+      "cutoff": 0.5231119438280639,
+      "coverage_actual_hist": 0.4000172607232243,
+      "hist_accuracy": 0.7695792880258899,
+      "n_hist": 4635,
+      "qualifying_products": 9,
+      "hit_products": 7,
+      "hit_fraction": 0.7777777777777778,
+      "balanced_across_products": true
+    },
+    "0.8": {
+      "cutoff": 0.6660270791857679,
+      "coverage_actual_hist": 0.2000517821696729,
+      "hist_accuracy": 0.869283865401208,
+      "n_hist": 2318,
+      "qualifying_products": 6,
+      "hit_products": 4,
+      "hit_fraction": 0.6666666666666666,
+      "balanced_across_products": true
+    },
+    "0.9": null
+  },
+  "stable_action_fraction": 0.75,
+  "simple_global_preferred_targets": 2,
+  "operational_targets_supported": 1,
+  "generalization_by_target": [
+    {
+      "target": 0.6,
+      "n_products": 99,
+      "active_products": 61,
+      "active_fraction": 0.6161616161616161,
+      "target_hit_products": 59,
+      "target_hit_fraction": 0.9672131147540983
+    },
+    {
+      "target": 0.7,
+      "n_products": 99,
+      "active_products": 35,
+      "active_fraction": 0.35353535353535354,
+      "target_hit_products": 29,
+      "target_hit_fraction": 0.8285714285714286
+    },
+    {
+      "target": 0.8,
+      "n_products": 99,
+      "active_products": 17,
+      "active_fraction": 0.1717171717171717,
+      "target_hit_products": 15,
+      "target_hit_fraction": 0.8823529411764706
+    },
+    {
+      "target": 0.9,
+      "n_products": 99,
+      "active_products": 6,
+      "active_fraction": 0.06060606060606061,
+      "target_hit_products": 5,
+      "target_hit_fraction": 0.8333333333333334
+    }
+  ],
+  "policy_summary": [
+    {
+      "policy": "BASE_B0_ALL",
+      "target": 0.6,
+      "coverage": 1.0,
+      "accuracy": 0.4027427851580394,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 68
+    },
+    {
+      "policy": "BASE_B0_ALL",
+      "target": 0.7,
+      "coverage": 1.0,
+      "accuracy": 0.4027427851580394,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 50
+    },
+    {
+      "policy": "BASE_B0_ALL",
+      "target": 0.8,
+      "coverage": 1.0,
+      "accuracy": 0.4027427851580394,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 37
+    },
+    {
+      "policy": "BASE_B0_ALL",
+      "target": 0.9,
+      "coverage": 1.0,
+      "accuracy": 0.4027427851580394,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 26
+    },
+    {
+      "policy": "BASE_B1_ALL",
+      "target": 0.6,
+      "coverage": 1.0,
+      "accuracy": 0.5636738433348603,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 128
+    },
+    {
+      "policy": "BASE_B1_ALL",
+      "target": 0.7,
+      "coverage": 1.0,
+      "accuracy": 0.5636738433348603,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 71
+    },
+    {
+      "policy": "BASE_B1_ALL",
+      "target": 0.8,
+      "coverage": 1.0,
+      "accuracy": 0.5636738433348603,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 42
+    },
+    {
+      "policy": "BASE_B1_ALL",
+      "target": 0.9,
+      "coverage": 1.0,
+      "accuracy": 0.5636738433348603,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 24
+    },
+    {
+      "policy": "GLOBAL_P1_B1",
+      "target": 0.6,
+      "coverage": 0.39157695831424644,
+      "accuracy": 0.7617898661987278,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 341
+    },
+    {
+      "policy": "GLOBAL_P1_B1",
+      "target": 0.7,
+      "coverage": 0.21492785158039396,
+      "accuracy": 0.8354868789130145,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 316
+    },
+    {
+      "policy": "GLOBAL_P1_B1",
+      "target": 0.8,
+      "coverage": 0.11495075584058635,
+      "accuracy": 0.8814445828144458,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 283
+    },
+    {
+      "policy": "GLOBAL_P1_B1",
+      "target": 0.9,
+      "coverage": 0.0,
+      "accuracy": null,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 0
+    },
+    {
+      "policy": "GLOBAL_SIMPLE_ACTION",
+      "target": 0.6,
+      "coverage": 0.4545923041685754,
+      "accuracy": 0.7245874795314271,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 179
+    },
+    {
+      "policy": "GLOBAL_SIMPLE_ACTION",
+      "target": 0.7,
+      "coverage": 0.2727611085661933,
+      "accuracy": 0.7886008187257268,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 103
+    },
+    {
+      "policy": "GLOBAL_SIMPLE_ACTION",
+      "target": 0.8,
+      "coverage": 0.15202702702702703,
+      "accuracy": 0.8698681732580038,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 59
+    },
+    {
+      "policy": "GLOBAL_SIMPLE_ACTION",
+      "target": 0.9,
+      "coverage": 0.04188616582684379,
+      "accuracy": 0.9699248120300752,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 18
+    },
+    {
+      "policy": "LOCAL_SIMPLE_ACTION",
+      "target": 0.6,
+      "coverage": 0.6034413650939074,
+      "accuracy": 0.6756179721971818,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 203
+    },
+    {
+      "policy": "LOCAL_SIMPLE_ACTION",
+      "target": 0.7,
+      "coverage": 0.4060066422354558,
+      "accuracy": 0.7429659403427121,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 138
+    },
+    {
+      "policy": "LOCAL_SIMPLE_ACTION",
+      "target": 0.8,
+      "coverage": 0.24570545121392579,
+      "accuracy": 0.8195059426707061,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 81
+    },
+    {
+      "policy": "LOCAL_SIMPLE_ACTION",
+      "target": 0.9,
+      "coverage": 0.09009963353183692,
+      "accuracy": 0.9374006990784874,
+      "n_products": 99,
+      "n_product_blocks": 396,
+      "target_hit_product_blocks": 34
+    }
+  ],
+  "global_vs_local": [
+    {
+      "target": 0.6,
+      "global_accuracy": 0.7245874795314271,
+      "local_accuracy": 0.6756179721971818,
+      "local_minus_global_accuracy": -0.04896950733424532,
+      "global_coverage": 0.4545923041685754,
+      "local_coverage": 0.6034413650939074,
+      "local_minus_global_coverage": 0.14884906092533207,
+      "simple_global_preferred": false
+    },
+    {
+      "target": 0.7,
+      "global_accuracy": 0.7886008187257268,
+      "local_accuracy": 0.7429659403427121,
+      "local_minus_global_accuracy": -0.04563487838301472,
+      "global_coverage": 0.2727611085661933,
+      "local_coverage": 0.4060066422354558,
+      "local_minus_global_coverage": 0.1332455336692625,
+      "simple_global_preferred": false
+    },
+    {
+      "target": 0.8,
+      "global_accuracy": 0.8698681732580038,
+      "local_accuracy": 0.8195059426707061,
+      "local_minus_global_accuracy": -0.05036223058729772,
+      "global_coverage": 0.15202702702702703,
+      "local_coverage": 0.24570545121392579,
+      "local_minus_global_coverage": 0.09367842418689876,
+      "simple_global_preferred": true
+    },
+    {
+      "target": 0.9,
+      "global_accuracy": 0.9699248120300752,
+      "local_accuracy": 0.9374006990784874,
+      "local_minus_global_accuracy": -0.03252411295158775,
+      "global_coverage": 0.04188616582684379,
+      "local_coverage": 0.09009963353183692,
+      "local_minus_global_coverage": 0.04821346770499313,
+      "simple_global_preferred": true
+    }
+  ],
+  "spec_assertions": {
+    "legacy_sets_in_primary_evidence": false,
+    "new_set_selection_uses_future_outcomes": false,
+    "global_cutoff_training_source": "LEGACY_PRIMARY_W1_W2_ONLY",
+    "new_product_eval_blocks": [
+      "W3",
+      "W4",
+      "W5",
+      "W6"
+    ],
+    "n_new_sets": 100,
+    "breadth_grade": "CONFIRMATORY_BREADTH",
+    "current_block_outcome_used_for_current_action": false,
+    "b2_used": false,
+    "execution_order": "PRODUCT_FIRST_CONSTANT_MEMORY"
+  },
+  "notes": [
+    "Legacy 12 sets calibrate the frozen global household gate only and never count as new-product evidence.",
+    "New-set census selection uses structural metadata and week<=22 support only; W3-W6 outcomes cannot affect inclusion.",
+    "B0/B1 are frozen; B2 and learned gates are absent.",
+    "GLOBAL_SIMPLE_ACTION tests transfer of one household gate plus local product-state logic.",
+    "LOCAL_SIMPLE_ACTION is a complexity comparator.",
+    "ORACLE_COMPLETE is diagnostic only."
+  ]
+}

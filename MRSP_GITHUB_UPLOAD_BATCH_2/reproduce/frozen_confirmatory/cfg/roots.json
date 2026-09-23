@@ -1,0 +1,21 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_CONFIRMATORY_V1",
+  "cj9": "C:\\MR\\data\\CJ9",
+  "expected_candidate_pool": 507,
+  "expected_prior_gen1": 100,
+  "representative_n": 100,
+  "department_challenge_target_n": 100,
+  "department_challenge_min_n": 60,
+  "department_challenge_caps": {
+    "GROCERY": 10,
+    "__default__": 25
+  },
+  "eligibility_pre_max_week": 22,
+  "min_pre_events": 120,
+  "min_pre_households": 25,
+  "required_n_alternatives": 6,
+  "exclude_name_terms": ["GAS", "FUEL"],
+  "representative_salt": "MRSP_CONFIRM_REP_V1",
+  "department_salt": "MRSP_CONFIRM_DEPT_V1",
+  "department_order_salt": "MRSP_CONFIRM_DEPT_ORDER_V1"
+}

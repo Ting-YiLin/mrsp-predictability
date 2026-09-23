@@ -1,0 +1,4 @@
+﻿model,accuracy,n_events
+B0_market_prior,0.3728170955882353,17408
+B1_household_history,0.6452780330882353,17408
+B2_behavior_fusion,0.6552159926470589,17408

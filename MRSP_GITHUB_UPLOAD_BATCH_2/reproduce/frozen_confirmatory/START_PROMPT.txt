@@ -1,0 +1,1 @@
+Read START.md and CONTRACT.md. This is an execution-only second-batch confirmatory validation. Run go.bat. Do not change P1, B0/B1, frozen cutoffs, sampling rules, targets, or time blocks. Return only MRSP_PREDICTABILITY_CONFIRMATORY_AUDIT_<run_id>.zip, or the newest failure ZIP if the package fails closed.

@@ -1,0 +1,96 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_FRONTIER_V1",
+  "execution_status": "RUN_PASS",
+  "semantic_status": "SEMANTIC_PASS",
+  "evidence_cap": "HISTORICAL_WALK_FORWARD_WITHIN_PANEL",
+  "n_events": 48833,
+  "n_primary_events": 34679,
+  "primary_compare_blocks": [
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "gate_summary": [
+    {
+      "gate": "P0_HISTORY",
+      "top20_bottom20_gap": 0.18180615959332808,
+      "positive_gap_blocks": 5,
+      "monotone_blocks": 4,
+      "accuracy_at_60": 0.6632464837445239,
+      "accuracy_at_100": 0.6230268623649958,
+      "selective_lift_at_60": 0.04021962137952806,
+      "bottom20_personalization_gain": 0.164106988783434,
+      "positive_products": 9,
+      "products_gap_ge_20pp": 5,
+      "n_products": 9
+    },
+    {
+      "gate": "P1_HH_STABILITY",
+      "top20_bottom20_gap": 0.4091167811522062,
+      "positive_gap_blocks": 5,
+      "monotone_blocks": 5,
+      "accuracy_at_60": 0.7136269310583353,
+      "accuracy_at_100": 0.6230268623649958,
+      "selective_lift_at_60": 0.09060006869333947,
+      "bottom20_personalization_gain": 0.09266609145815358,
+      "positive_products": 9,
+      "products_gap_ge_20pp": 7,
+      "n_products": 9
+    },
+    {
+      "gate": "P2_HH_PLUS_PRODUCT",
+      "top20_bottom20_gap": 0.4091167811522062,
+      "positive_gap_blocks": 5,
+      "monotone_blocks": 5,
+      "accuracy_at_60": 0.7136269310583353,
+      "accuracy_at_100": 0.6230268623649958,
+      "selective_lift_at_60": 0.09060006869333947,
+      "bottom20_personalization_gain": 0.09266609145815358,
+      "positive_products": 9,
+      "products_gap_ge_20pp": 7,
+      "n_products": 9
+    },
+    {
+      "gate": "P3_INTERACTION",
+      "top20_bottom20_gap": 0.4091167811522062,
+      "positive_gap_blocks": 5,
+      "monotone_blocks": 5,
+      "accuracy_at_60": 0.7136269310583353,
+      "accuracy_at_100": 0.6230268623649958,
+      "selective_lift_at_60": 0.09060006869333947,
+      "bottom20_personalization_gain": 0.09266609145815358,
+      "positive_products": 9,
+      "products_gap_ge_20pp": 7,
+      "n_products": 9
+    },
+    {
+      "gate": "P4_LOGISTIC",
+      "top20_bottom20_gap": 0.46083925111570717,
+      "positive_gap_blocks": 5,
+      "monotone_blocks": 5,
+      "accuracy_at_60": 0.735877334563062,
+      "accuracy_at_100": 0.6230268623649958,
+      "selective_lift_at_60": 0.11285047219806621,
+      "bottom20_personalization_gain": 0.0545297670405522,
+      "positive_products": 9,
+      "products_gap_ge_20pp": 8,
+      "n_products": 9
+    }
+  ],
+  "success_thresholds": {
+    "top20_bottom20_gap_pp": 20.0,
+    "min_positive_blocks": 4,
+    "min_monotone_blocks": 4,
+    "abstain_personalization_gain_max_pp": 3.0,
+    "material_selective_lift_pp_at_60": 8.0,
+    "min_positive_products": 6
+  },
+  "notes": [
+    "P4 is evaluated only from W2 onward and trains only on completed prior evaluation-block labels from the nine primary products; C01-C03 controls never train P4.",
+    "Every event score is formed before that event outcome is used.",
+    "RANDOM_LIKE_CANDIDATE means low-score personalization gain versus B0 is <=3pp in at least four future blocks; it is an operational abstention label, not proof of literal randomness.",
+    "Main predictor is frozen B1 to isolate predictability gating from choice-model competition."
+  ]
+}

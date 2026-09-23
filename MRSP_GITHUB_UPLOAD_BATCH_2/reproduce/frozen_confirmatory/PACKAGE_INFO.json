@@ -1,0 +1,11 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_CONFIRMATORY_V1",
+  "purpose": "second untouched within-panel cross-product confirmation",
+  "execution_role": "Codex execution and logging only",
+  "sol_allowed": false,
+  "reviewer_required_during_execution": false,
+  "scientific_code_frozen": true,
+  "release_gate": "PASS",
+  "manifest_entries": 40,
+  "release_date": "2026-09-21"
+}

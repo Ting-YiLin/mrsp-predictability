@@ -1,0 +1,56 @@
+{
+  "release_version": "MRSP_PREDICTABILITY_RELEASE_V1.0",
+  "tolerance_abs": 0.001,
+  "confirmation_grade": "CONFIRMED_WITHIN_PANEL_CROSS_PRODUCT",
+  "representative": {
+    "selected_products": 100,
+    "evaluated_products": 99,
+    "events": 40474,
+    "p1": {
+      "0.6": {
+        "coverage": 0.4107822305677719,
+        "accuracy": 0.7717430530494407
+      },
+      "0.7": {
+        "coverage": 0.21999308197855413,
+        "accuracy": 0.8478212039532794
+      },
+      "0.8": {
+        "coverage": 0.11009536986707516,
+        "accuracy": 0.9005834829443446
+      }
+    },
+    "b1_all_accuracy": 0.5937144833720414
+  },
+  "department_challenge": {
+    "selected_products": 100,
+    "evaluated_products": 99,
+    "events": 36027,
+    "p1_0.6": {
+      "coverage": 0.40217059427651486,
+      "accuracy": 0.7932914624887846
+    },
+    "b1_all_accuracy": 0.6117633996724678,
+    "supported_departments": 7,
+    "positive_departments": 6
+  },
+  "batch1": {
+    "selected_products": 100,
+    "evaluated_products": 99,
+    "events": 52854,
+    "p1": {
+      "0.6": {
+        "coverage": 0.39157695831424644,
+        "accuracy": 0.7617898661987278
+      },
+      "0.7": {
+        "coverage": 0.21492785158039396,
+        "accuracy": 0.8354868789130145
+      },
+      "0.8": {
+        "coverage": 0.11495075584058635,
+        "accuracy": 0.8814445828144458
+      }
+    }
+  }
+}

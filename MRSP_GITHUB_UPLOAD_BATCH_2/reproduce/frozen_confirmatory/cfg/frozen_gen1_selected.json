@@ -1,0 +1,1806 @@
+{
+  "source_campaign": "MRSP_PREDICTABILITY_GENERALIZATION_V1",
+  "n": 100,
+  "selected": [
+    {
+      "group_name": "ROLLS - FLAVORED/OTHER",
+      "department": "MEAT-PCKGD",
+      "candidate_products": [
+        "870195",
+        "1019142",
+        "8067128",
+        "1068561",
+        "899201",
+        "1133210"
+      ],
+      "events_pre22": 158,
+      "households_pre22": 121,
+      "raw_stable_key": "e9481270a4025a792f45535b4c80e16ea0a9016fb3e16fb22a8672da9d101560",
+      "candidate_source_set": "POOL456",
+      "stable_key": "00612e385c960ffe50ec6757559705aa3924ac138cb231d4bc9fc3aaa8abaf2d",
+      "set_id": "N001"
+    },
+    {
+      "group_name": "POTATOES OTHER",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "908318",
+        "5564303",
+        "974743",
+        "1006542",
+        "1175869",
+        "6704130"
+      ],
+      "events_pre22": 339,
+      "households_pre22": 195,
+      "raw_stable_key": "700f15d81745f03033589298355fd166af2ccde76f94f28a4c731230173ec5dc",
+      "candidate_source_set": "POOL226",
+      "stable_key": "00991ca01e83985364f8d76d433923ed34420ee5c600dc7b3e395768cf226772",
+      "set_id": "N002"
+    },
+    {
+      "group_name": "ABRASIVES",
+      "department": "GROCERY",
+      "candidate_products": [
+        "12298966",
+        "10457545",
+        "5996469",
+        "1120475",
+        "7150176",
+        "12301766"
+      ],
+      "events_pre22": 126,
+      "households_pre22": 111,
+      "raw_stable_key": "e8691336f61620392623d80932d7472a11a81a86a58c506842ed06ca9590cc22",
+      "candidate_source_set": "POOL451",
+      "stable_key": "00ce126bebb37674ddd808294442f97742cab5bf0831be87427d3219762fbb09",
+      "set_id": "N003"
+    },
+    {
+      "group_name": "PEPPERS ALL OTHER",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "925112",
+        "828935",
+        "978387",
+        "1125664",
+        "12159865",
+        "1098174"
+      ],
+      "events_pre22": 170,
+      "households_pre22": 113,
+      "raw_stable_key": "e946ea955de10addbc65cde142a0e517d119350cd751ecf766bdce6c3fced8ac",
+      "candidate_source_set": "POOL455",
+      "stable_key": "0211fb25d510a3a7da861b2391ee9dceb2c7998d8e853db9b3ab7bcc6ab3305f",
+      "set_id": "N004"
+    },
+    {
+      "group_name": "CAKES: NOVELTIES",
+      "department": "PASTRY",
+      "candidate_products": [
+        "1128812",
+        "936846",
+        "988822",
+        "6544219",
+        "6548777",
+        "8249227"
+      ],
+      "events_pre22": 129,
+      "households_pre22": 104,
+      "raw_stable_key": "894a542350c612ca8c109cb658d97435e1bf1b664ce9aa15cb573d272c4233ed",
+      "candidate_source_set": "POOL275",
+      "stable_key": "02988af5b6678edd3491c69106859ece498022725975281e61fe7f62e702efcc",
+      "set_id": "N005"
+    },
+    {
+      "group_name": "REFRIG DIPS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1005609",
+        "880579",
+        "1059308",
+        "1007642",
+        "1007911",
+        "844759"
+      ],
+      "events_pre22": 428,
+      "households_pre22": 244,
+      "raw_stable_key": "34734620d8680f3ff22333ccb0e100ac5d17dac31e5e7ff695db5c49b7a17214",
+      "candidate_source_set": "POOL105",
+      "stable_key": "04fe3c8f098f877bc84f7ce48b8ccbec06c61e2880310b8e01b08c168254c57e",
+      "set_id": "N006"
+    },
+    {
+      "group_name": "BUTTS",
+      "department": "MEAT",
+      "candidate_products": [
+        "895166",
+        "12810466",
+        "8358572",
+        "8358846",
+        "12810457",
+        "12810484"
+      ],
+      "events_pre22": 158,
+      "households_pre22": 103,
+      "raw_stable_key": "071f687e1a85ae4aa4d504d0f53262815621c95c731665baeb7517ad75c3b863",
+      "candidate_source_set": "POOL016",
+      "stable_key": "0628d7423fe3e0a9e92c6c7d765456cb3a74e7c7236fa3a84e1741bc3a444e1d",
+      "set_id": "N007"
+    },
+    {
+      "group_name": "SEAFOOD-FRZ-RAW FILLETS",
+      "department": "SEAFOOD-PCKGD",
+      "candidate_products": [
+        "12946027",
+        "1127758",
+        "13210025",
+        "13186440",
+        "1129805",
+        "13186441"
+      ],
+      "events_pre22": 344,
+      "households_pre22": 174,
+      "raw_stable_key": "fb3eb1295ae2ea06a3786bafcce99cdeba59d5bd2811332346e5f2f2847443f5",
+      "candidate_source_set": "POOL501",
+      "stable_key": "06ad1b5739784fce4d6b97c5a4f1247234334a867237010af80638c8d01dc895",
+      "set_id": "N008"
+    },
+    {
+      "group_name": "NOODLES DRY",
+      "department": "GROCERY",
+      "candidate_products": [
+        "849264",
+        "1074697",
+        "850157",
+        "922307",
+        "1098692",
+        "1063265"
+      ],
+      "events_pre22": 348,
+      "households_pre22": 262,
+      "raw_stable_key": "a05064025b5f501ffea0bb37fc84f14ee4457a9bb52d4c4e82a25a26b2a6409f",
+      "candidate_source_set": "POOL324",
+      "stable_key": "076524762b03aafebd05beac6093dae60cc7a8dfe4f114b8342f5aa4fdb00e04",
+      "set_id": "N009"
+    },
+    {
+      "group_name": "SEASONAL CANDY BAGS-CHOCOLATE",
+      "department": "DRUG GM",
+      "candidate_products": [
+        "898432",
+        "1093217",
+        "1000476",
+        "1076169",
+        "860647",
+        "1027099"
+      ],
+      "events_pre22": 226,
+      "households_pre22": 181,
+      "raw_stable_key": "898a4cbe150b9460b3d7d60c3292314db85d57c836469090539b04382f61d27b",
+      "candidate_source_set": "POOL276",
+      "stable_key": "088f638b88e0a17e67bb03299113d12e2851d832e4e97ec480740aaf7c3c999a",
+      "set_id": "N010"
+    },
+    {
+      "group_name": "BEANS GREEN: FS/WHL/CUT",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1013321",
+        "973861",
+        "852864",
+        "1013149",
+        "1011884",
+        "982960"
+      ],
+      "events_pre22": 946,
+      "households_pre22": 489,
+      "raw_stable_key": "6799f7e93d1cebe433c07874347c801da05e9e41740aecce917525a66a095599",
+      "candidate_source_set": "POOL207",
+      "stable_key": "0930f3068323f2c4f9af76b0ad83052477d2a3792fed70a9f9c10f82048029ef",
+      "set_id": "N011"
+    },
+    {
+      "group_name": "WHOLE CHICKEN (ROASTERS/FRYER)",
+      "department": "MEAT",
+      "candidate_products": [
+        "896613",
+        "871611",
+        "1072685",
+        "5578437",
+        "12731467",
+        "12731621"
+      ],
+      "events_pre22": 379,
+      "households_pre22": 244,
+      "raw_stable_key": "52ea64793b8c4e23dbe89862619eb5b2df568829be530b699aaa837a142c85bc",
+      "candidate_source_set": "POOL166",
+      "stable_key": "09828f918a8001a772eba7bb055fa1d737d8aa7aba9392cdef1fd3f5154939f9",
+      "set_id": "N012"
+    },
+    {
+      "group_name": "PEACHES",
+      "department": "GROCERY",
+      "candidate_products": [
+        "932182",
+        "1067849",
+        "1100379",
+        "1106373",
+        "1037348",
+        "899823"
+      ],
+      "events_pre22": 270,
+      "households_pre22": 176,
+      "raw_stable_key": "2530d36ef8e6cbe4a5ea9973c0a7fe409f19787315f9051d6c67060b0d68a9bd",
+      "candidate_source_set": "POOL072",
+      "stable_key": "0983810dec90e427304aa9e766cb6d763d407843c7318f00e18ba0837ee597d5",
+      "set_id": "N013"
+    },
+    {
+      "group_name": "MISCELLANEOUS CANDY (INCLUDING",
+      "department": "DRUG GM",
+      "candidate_products": [
+        "944486",
+        "992300",
+        "903567",
+        "10351524",
+        "1004411",
+        "13008468"
+      ],
+      "events_pre22": 261,
+      "households_pre22": 171,
+      "raw_stable_key": "9c64f58e65b8a6e96b4e1013da5c7372a9bf547602608e75dc8b123a7ddb3f11",
+      "candidate_source_set": "POOL311",
+      "stable_key": "0986512efb205b33b9e1457021d848b1f04c8fb0277d25e4dec92a4df218e764",
+      "set_id": "N014"
+    },
+    {
+      "group_name": "SWEETENERS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "970866",
+        "883616",
+        "1080989",
+        "964120",
+        "842416",
+        "920256"
+      ],
+      "events_pre22": 178,
+      "households_pre22": 124,
+      "raw_stable_key": "c18efa2ecdad7f034aa9c6f14804d8a7d9068dc4a9bee44f46b9fdcaf97f7d2d",
+      "candidate_source_set": "POOL377",
+      "stable_key": "09ff0782de590152a412ac68710c5a0821e1ae0752c5a3f82d91c3e35d675dd3",
+      "set_id": "N015"
+    },
+    {
+      "group_name": "BATHROOM CLEANERS - GENERAL",
+      "department": "GROCERY",
+      "candidate_products": [
+        "845462",
+        "985181",
+        "1048918",
+        "5995953",
+        "13213552",
+        "907993"
+      ],
+      "events_pre22": 133,
+      "households_pre22": 110,
+      "raw_stable_key": "dbdb62618c9a8f2f5c79a32a5cca7a2be298ffe265804f1472aaa79be87bad46",
+      "candidate_source_set": "POOL427",
+      "stable_key": "0a9959e2656eb98040a186ecd3653193f33c932a900e2852ceca0b33651f3295",
+      "set_id": "N016"
+    },
+    {
+      "group_name": "CHARCOAL",
+      "department": "DRUG GM",
+      "candidate_products": [
+        "13072850",
+        "12757425",
+        "12757653",
+        "12811490",
+        "13512542",
+        "12757617"
+      ],
+      "events_pre22": 169,
+      "households_pre22": 128,
+      "raw_stable_key": "c50e43271e2bb24e17b705df34e812a8e119472957d5f307b1d6715c0a2b9a4b",
+      "candidate_source_set": "POOL383",
+      "stable_key": "0b77b41bc64a7b439ff0219108a3a6f7cf7bad92ea92797f2c2d477294de9fcc",
+      "set_id": "N017"
+    },
+    {
+      "group_name": "TOMATOES GRAPE",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "6034857",
+        "1021522",
+        "951179",
+        "9570409",
+        "5984458",
+        "5657913"
+      ],
+      "events_pre22": 753,
+      "households_pre22": 371,
+      "raw_stable_key": "7b52f84773b9ebb5896a67b15263b9760a80eb58a0925b2b5c974f50738938e6",
+      "candidate_source_set": "POOL247",
+      "stable_key": "0bb70058de3bc576d066fb6f6d0c503b1510cd8df8e9a8a6863dc7971675efa2",
+      "set_id": "N018"
+    },
+    {
+      "group_name": "PREMIUM - MEAT",
+      "department": "MEAT-PCKGD",
+      "candidate_products": [
+        "910032",
+        "932863",
+        "9416729",
+        "825970",
+        "9707240",
+        "1036249"
+      ],
+      "events_pre22": 742,
+      "households_pre22": 449,
+      "raw_stable_key": "3c4efb67c7b4c88cf4fc9d1f9223696451cd830fe347322a1d291ce2fc729c4d",
+      "candidate_source_set": "POOL122",
+      "stable_key": "0e06b88acd69fae7af561dcaac5d560a27223b9da89c53837e3577b063191963",
+      "set_id": "N019"
+    },
+    {
+      "group_name": "SANDWICH BUNS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1137885",
+        "7024830",
+        "12324948",
+        "1011312",
+        "8181355",
+        "6979485"
+      ],
+      "events_pre22": 253,
+      "households_pre22": 170,
+      "raw_stable_key": "31180ff8fe530db3c91e4a7c352edaa9a1f763117c04fccde53c538a6673343c",
+      "candidate_source_set": "POOL097",
+      "stable_key": "0e40927711b78184e65b860e4f81da700dcc93fa695e621f98a8c03845d5b29d",
+      "set_id": "N020"
+    },
+    {
+      "group_name": "COTTAGE CHEESE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1056509",
+        "1077555",
+        "916993",
+        "896085",
+        "970119",
+        "1037332"
+      ],
+      "events_pre22": 1379,
+      "households_pre22": 561,
+      "raw_stable_key": "3233d2b9840d8ee53f9ea4b5b0451507a380d7806b99897483baa6aaf475285b",
+      "candidate_source_set": "POOL099",
+      "stable_key": "0e96e78b594c8f72d5b589d422e68cb0fd6333ee4bb84e31c877e070b463ab9f",
+      "set_id": "N021"
+    },
+    {
+      "group_name": "REFRIGERATED COOKIES-CHUB",
+      "department": "GROCERY",
+      "candidate_products": [
+        "908064",
+        "13007407",
+        "1033857",
+        "9803395",
+        "7167945",
+        "849297"
+      ],
+      "events_pre22": 272,
+      "households_pre22": 190,
+      "raw_stable_key": "77796fc9ccac27f1640da1843197fff688a45369e8b7659d268ee9063323dd00",
+      "candidate_source_set": "POOL239",
+      "stable_key": "0e9f996382bc641358004b20d728038c7810d9f8277c89aa5e666d77afa5c1d4",
+      "set_id": "N022"
+    },
+    {
+      "group_name": "FRZN BREAKFAST PASTRY",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1123434",
+        "930955",
+        "884333",
+        "1002261",
+        "927011",
+        "1113768"
+      ],
+      "events_pre22": 158,
+      "households_pre22": 96,
+      "raw_stable_key": "cdeb5c878234c201f7c7df7cef5c149ba5cda2df7415e5be74a75cb3c8d537f3",
+      "candidate_source_set": "POOL404",
+      "stable_key": "0f40cd10f27f17794ea8a3910cda299c62e1cfcb244bb842cf88da166ad25493",
+      "set_id": "N023"
+    },
+    {
+      "group_name": "ONIONS WHITE (BULK&BAG)",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "1043301",
+        "989824",
+        "1079067",
+        "969932",
+        "973374",
+        "1004066"
+      ],
+      "events_pre22": 627,
+      "households_pre22": 408,
+      "raw_stable_key": "b106b02f3dda4bc05183a77072443915cb1a2d3532766f5f1c025b352c47df96",
+      "candidate_source_set": "POOL355",
+      "stable_key": "10c7e907d6bd4181069f4824a9dc1f71fbdbd3bc6b5abde0eb80ffdf79f552b7",
+      "set_id": "N024"
+    },
+    {
+      "group_name": "STANDARD OATMEAL",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1004390",
+        "999391",
+        "948622",
+        "1015694",
+        "1128244",
+        "870549"
+      ],
+      "events_pre22": 229,
+      "households_pre22": 173,
+      "raw_stable_key": "e64c591a55a610a71115def650a42f84f2593f9bbca7291c6a1a2e399edbdaf8",
+      "candidate_source_set": "POOL445",
+      "stable_key": "11db2b56cb89030757ed27ccf81a12256dd77d66ef837a642210fc059fa5bc07",
+      "set_id": "N025"
+    },
+    {
+      "group_name": "CANISTER POTATO/TORT CHIPS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "974108",
+        "931671",
+        "882830",
+        "868319",
+        "838733",
+        "941183"
+      ],
+      "events_pre22": 353,
+      "households_pre22": 226,
+      "raw_stable_key": "e31a896089de31a69da84853a1224832e716e43eb29d98c288bf183ebb2ddfe6",
+      "candidate_source_set": "POOL439",
+      "stable_key": "11ec31b364c479c8380f67eee8daf95ba867059333c2524f71d868fd30ea7257",
+      "set_id": "N026"
+    },
+    {
+      "group_name": "LIQUID DISH DETERGENT",
+      "department": "GROCERY",
+      "candidate_products": [
+        "9487927",
+        "1006399",
+        "1077588",
+        "9487603",
+        "838797",
+        "1039507"
+      ],
+      "events_pre22": 347,
+      "households_pre22": 230,
+      "raw_stable_key": "e96ad853fa6fca06436e82b67b2978eac8f9ba277a67766bb1e7c56dc24393a5",
+      "candidate_source_set": "POOL457",
+      "stable_key": "12f707c246af7dad32e4a2a71c7484e356b71f723ff4707c7b77ac8efacb521d",
+      "set_id": "N027"
+    },
+    {
+      "group_name": "MULT PK BAG SNACKS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "9527159",
+        "9527408",
+        "9487613",
+        "994093",
+        "895409",
+        "13910144"
+      ],
+      "events_pre22": 145,
+      "households_pre22": 88,
+      "raw_stable_key": "784a7307441431f6fb08e697a5d92199bf341a5e2c6c1cc6984eb9f47f79ba9f",
+      "candidate_source_set": "POOL241",
+      "stable_key": "144f6f9673965e648cde7c23ba3d4eb9fe04fad2e6ab7f7f132e64389f216b30",
+      "set_id": "N028"
+    },
+    {
+      "group_name": "FRZN BREADED PREPARED CHICK",
+      "department": "MEAT-PCKGD",
+      "candidate_products": [
+        "947201",
+        "1083446",
+        "889509",
+        "997011",
+        "893729",
+        "1045109"
+      ],
+      "events_pre22": 349,
+      "households_pre22": 186,
+      "raw_stable_key": "cbd05dc8251a06e89a5468175ebf3cd0cb16175b10d68757756806ced9621b0f",
+      "candidate_source_set": "POOL397",
+      "stable_key": "15daa0b4e5e4094275bdefed62e7b7967dfb08ba4fd38fd337c2e652cd1144de",
+      "set_id": "N029"
+    },
+    {
+      "group_name": "RELISHES",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1093403",
+        "955774",
+        "1019722",
+        "876750",
+        "1077709",
+        "902820"
+      ],
+      "events_pre22": 208,
+      "households_pre22": 171,
+      "raw_stable_key": "47c22a1cbe33ad4736523995767362107a49cc37b27257025e5846baa2c6c874",
+      "candidate_source_set": "POOL144",
+      "stable_key": "1876cf4194732454f145441eaf9979e2de44187a125a5fe405cc50246dbb84f2",
+      "set_id": "N030"
+    },
+    {
+      "group_name": "SOUR CREAMS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "833025",
+        "1133072",
+        "1110142",
+        "1118787",
+        "963971",
+        "1081853"
+      ],
+      "events_pre22": 1264,
+      "households_pre22": 650,
+      "raw_stable_key": "be6d4b7bfe627ec970d49ca05976acdf61111bd5ed40571b94ddc9f12eabe6a3",
+      "candidate_source_set": "POOL371",
+      "stable_key": "19363ce8725245152483d3caa3b989397eb75a4aa5da72dd99971331f42bba1b",
+      "set_id": "N031"
+    },
+    {
+      "group_name": "FROZEN FRUIT",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1123106",
+        "1135044",
+        "947326",
+        "1001277",
+        "822049",
+        "6552318"
+      ],
+      "events_pre22": 205,
+      "households_pre22": 99,
+      "raw_stable_key": "9a61201d32a1bed2cbc1d0a2f1e76b788529ac8f248a104f94bdfc0e833c0b99",
+      "candidate_source_set": "POOL309",
+      "stable_key": "195cb2822abe2b7c50586dbc0c841fa58ea792f4f423263de0e529bb3629925c",
+      "set_id": "N032"
+    },
+    {
+      "group_name": "DRY",
+      "department": "MEAT",
+      "candidate_products": [
+        "12811532",
+        "12812261",
+        "1071556",
+        "12811997",
+        "1061285",
+        "1022643"
+      ],
+      "events_pre22": 140,
+      "households_pre22": 120,
+      "raw_stable_key": "32e7498feee943d10da771bf737b3eed8238354dc47c6d10a0088883262e80d3",
+      "candidate_source_set": "POOL100",
+      "stable_key": "19732df199f1c6264cd8a17057a5393cb86b5c2e8e8cb622067d90fef7046856",
+      "set_id": "N033"
+    },
+    {
+      "group_name": "GRAPE JUICE (OVER 50% JUICE)",
+      "department": "GROCERY",
+      "candidate_products": [
+        "979877",
+        "1048237",
+        "891752",
+        "872066",
+        "1115553",
+        "5567057"
+      ],
+      "events_pre22": 197,
+      "households_pre22": 106,
+      "raw_stable_key": "95240ec82d9aadb8ac9446ae546dbe20b11d4f2f39048cda438b7137f1cd6773",
+      "candidate_source_set": "POOL299",
+      "stable_key": "1997d1081eeed59eab41b4b16987296a25e0e0c49e9cc0c36b70a6f748bc0b45",
+      "set_id": "N034"
+    },
+    {
+      "group_name": "TOMATOES VINE RIPE PKG",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "5585510",
+        "5707857",
+        "417578",
+        "5127963",
+        "15626737",
+        "396569"
+      ],
+      "events_pre22": 395,
+      "households_pre22": 200,
+      "raw_stable_key": "a7a0f7266efd87cbbb5fd999ea3c00056acba8073b1255b8eb1809c7b7f068c4",
+      "candidate_source_set": "POOL339",
+      "stable_key": "19c9828cc2e9bdedf099a0d96bde1948c15e865369c18ba380a8cbe4a87719a3",
+      "set_id": "N035"
+    },
+    {
+      "group_name": "FRUIT SNACKS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "822346",
+        "821344",
+        "9337729",
+        "861819",
+        "1079292",
+        "1018859"
+      ],
+      "events_pre22": 184,
+      "households_pre22": 112,
+      "raw_stable_key": "816f8e3887f69c4630fb00ad4d3f272b61f8d1423ea516d789b470d9492b2881",
+      "candidate_source_set": "POOL257",
+      "stable_key": "1b276d1a313a64b477625f63daa83bdc10b233ce7f43cf0702bc4f89a766a381",
+      "set_id": "N036"
+    },
+    {
+      "group_name": "EGGS SUBSTITUTE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "991874",
+        "1089024",
+        "858743",
+        "1067443",
+        "10456474",
+        "1097909"
+      ],
+      "events_pre22": 173,
+      "households_pre22": 89,
+      "raw_stable_key": "ebf233cf529ab3f262dc39b7bc569b584e9258e3283c99e0539a37879e675352",
+      "candidate_source_set": "POOL464",
+      "stable_key": "1c961a6c33d9a68a16d1bead1d2bf86209d29cd953ffbcd3ff6dccf900760d53",
+      "set_id": "N037"
+    },
+    {
+      "group_name": "TEA SWEETENED",
+      "department": "GROCERY",
+      "candidate_products": [
+        "891906",
+        "888104",
+        "6533912",
+        "9655678",
+        "942271",
+        "9446440"
+      ],
+      "events_pre22": 134,
+      "households_pre22": 67,
+      "raw_stable_key": "5cc4200d54638d8fe7dc512ce3aa6961a031d494d70beea9fff26d32a35d699b",
+      "candidate_source_set": "POOL186",
+      "stable_key": "1de599c9e50df06c0e969d254cdf5f80e15f4cc4241f6ff4feceb5f2aeb77863",
+      "set_id": "N038"
+    },
+    {
+      "group_name": "MULTI-PACK CRACKERS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1031065",
+        "1028805",
+        "9445671",
+        "1127701",
+        "995598",
+        "1067928"
+      ],
+      "events_pre22": 156,
+      "households_pre22": 110,
+      "raw_stable_key": "218735b7de0c7ebf705588437978530ef2a8297432c4496f625f2313c5b2f8be",
+      "candidate_source_set": "POOL066",
+      "stable_key": "1e2c9c75aad6a67f546bba089fb2d27c379ad3c2033232f2f3c73978010acbd9",
+      "set_id": "N039"
+    },
+    {
+      "group_name": "CONDENSED SOUP",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1022003",
+        "1050229",
+        "911812",
+        "1077490",
+        "855468",
+        "912553"
+      ],
+      "events_pre22": 963,
+      "households_pre22": 532,
+      "raw_stable_key": "80e759922b60f620d2ab431058279d58629c20d317f73105d6aa4ad7f0290eaf",
+      "candidate_source_set": "POOL256",
+      "stable_key": "1e9ffd9c84012b79f877e733131280c205d9a6dade00778eeed9974e29c352b6",
+      "set_id": "N040"
+    },
+    {
+      "group_name": "FRZN BAGGED VEGETABLES- VALUE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "868909",
+        "1023830",
+        "953106",
+        "7409880",
+        "7410304",
+        "936741"
+      ],
+      "events_pre22": 149,
+      "households_pre22": 105,
+      "raw_stable_key": "b9636dad715b67b84ce7658cb98a0fee7f05ec12331bb15bc849bf3412110eaa",
+      "candidate_source_set": "POOL366",
+      "stable_key": "1f5912aa3bb90a9eda0ba10d1bb9813d1f6bdf2dc2a6b13fba5022b459b314a7",
+      "set_id": "N041"
+    },
+    {
+      "group_name": "BROTH",
+      "department": "GROCERY",
+      "candidate_products": [
+        "9445919",
+        "9553031",
+        "9483663",
+        "1043064",
+        "845262",
+        "9485347"
+      ],
+      "events_pre22": 338,
+      "households_pre22": 214,
+      "raw_stable_key": "60d27a695ac74d1d95f0e047865f903b6a9634864e13f075d1133de041bbf7bb",
+      "candidate_source_set": "POOL193",
+      "stable_key": "1fa3b94abddb4f4a6b5394b8bc4a817199271b84050190b1c77120ac73c2028a",
+      "set_id": "N042"
+    },
+    {
+      "group_name": "CHILI: CANNED",
+      "department": "GROCERY",
+      "candidate_products": [
+        "897306",
+        "1128016",
+        "937928",
+        "957063",
+        "998558",
+        "1110764"
+      ],
+      "events_pre22": 523,
+      "households_pre22": 314,
+      "raw_stable_key": "dd8fb82e9739512b756104cf02c6bf24ecbe10f5f6bf325ce09c76cea12659b3",
+      "candidate_source_set": "POOL430",
+      "stable_key": "20852d005d459f8a1aecf4357223d32b18de6b9fb44a3970baf9baa685ababc8",
+      "set_id": "N043"
+    },
+    {
+      "group_name": "JELLY",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1062782",
+        "998984",
+        "1099656",
+        "988716",
+        "1100691",
+        "1121676"
+      ],
+      "events_pre22": 237,
+      "households_pre22": 196,
+      "raw_stable_key": "6eed11690f0a5c1475b42bcde4de14504be373d2ad3dea3d734172acd76ba718",
+      "candidate_source_set": "POOL223",
+      "stable_key": "20fb15120741738d9ea71876f26c8e5e2c03f8916ee071f334f36d8f75e75d61",
+      "set_id": "N044"
+    },
+    {
+      "group_name": "BLUEBERRIES",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "5578547",
+        "903800",
+        "2938162",
+        "6034760",
+        "79346",
+        "1029192"
+      ],
+      "events_pre22": 247,
+      "households_pre22": 116,
+      "raw_stable_key": "032c5d91ccefc6ffeced0494613286f119990a6261f4673b05074b2ca1da3e83",
+      "candidate_source_set": "POOL007",
+      "stable_key": "2225e0f66590a93f3aaad5ce5b2ee41c845176c8b2f616519c182f7f17770004",
+      "set_id": "N045"
+    },
+    {
+      "group_name": "NON-CARB FLVRD DRNKNG/MNRL WAT",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1025581",
+        "820301",
+        "1121410",
+        "969463",
+        "9553335",
+        "9553382"
+      ],
+      "events_pre22": 222,
+      "households_pre22": 111,
+      "raw_stable_key": "6906e353e3f296064ca4e43748d67b5709e6096832fc16baf9def38f6cc0840f",
+      "candidate_source_set": "POOL214",
+      "stable_key": "22e20c831fc9ce71cb111f8b9ef22ddaec332311ac13f8bffa21dfef86b7f138",
+      "set_id": "N046"
+    },
+    {
+      "group_name": "SANDWICHES&HANDHELDS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "944317",
+        "937791",
+        "867931",
+        "1007082",
+        "917654",
+        "1017838"
+      ],
+      "events_pre22": 340,
+      "households_pre22": 212,
+      "raw_stable_key": "28baaae319f6e4d7b4d8ced3a40c16addcb98f166532e0160588b4ada8fcafa0",
+      "candidate_source_set": "POOL077",
+      "stable_key": "237709dbd44c04dff88d234cf026418251a1c5b0016ca39b56a894ba7d2f72ba",
+      "set_id": "N047"
+    },
+    {
+      "group_name": "PINEAPPLE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1043128",
+        "843306",
+        "958046",
+        "1075637",
+        "954363",
+        "993044"
+      ],
+      "events_pre22": 336,
+      "households_pre22": 245,
+      "raw_stable_key": "2e6f23a92f3cb418b67a510bd20ca703eeefeff429137e4c3c18359005451233",
+      "candidate_source_set": "POOL092",
+      "stable_key": "23bffb5a37514c9ff392e4ac2a689da14740f4f51ec981adcb02e7cedf55ac79",
+      "set_id": "N048"
+    },
+    {
+      "group_name": "VEGETABLE SALADS - PREPACK",
+      "department": "DELI",
+      "candidate_products": [
+        "933060",
+        "1104604",
+        "1070076",
+        "834129",
+        "1106073",
+        "7025496"
+      ],
+      "events_pre22": 277,
+      "households_pre22": 198,
+      "raw_stable_key": "09cfebbe6fdccbd83354d83dc811f4e216de6839a91138a94933554b4f0055fc",
+      "candidate_source_set": "POOL023",
+      "stable_key": "25ceb9c0d24dd0b68570242d7f144a011e3d0d2ab6dc876bf6d671440bed727c",
+      "set_id": "N049"
+    },
+    {
+      "group_name": "SFT DRNK MLT-PK BTL CARB (EXCP",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1110572",
+        "1011300",
+        "1067695",
+        "1097001",
+        "916990",
+        "965772"
+      ],
+      "events_pre22": 711,
+      "households_pre22": 319,
+      "raw_stable_key": "ef97bb0af6c397049cda94dc92707aea27a84ef2d155300013d3668a7ab905ba",
+      "candidate_source_set": "POOL474",
+      "stable_key": "2644f1c6b31233628b7dc4e17dcdf58005bbde2eb7f217c5099ab6394f745c25",
+      "set_id": "N050"
+    },
+    {
+      "group_name": "SFT DRNK 2 LITER BTL CARB INCL",
+      "department": "GROCERY",
+      "candidate_products": [
+        "844165",
+        "1053690",
+        "1092026",
+        "1120741",
+        "916381",
+        "1132770"
+      ],
+      "events_pre22": 1964,
+      "households_pre22": 656,
+      "raw_stable_key": "307b958bcfc17609d4f300d257341742762fdba1111e3c02e5c3f5a0334e65e0",
+      "candidate_source_set": "POOL096",
+      "stable_key": "271f0719340fc2d5e4bcdf374f0ec61df371a9847e8d028245d488af2c699d5f",
+      "set_id": "N051"
+    },
+    {
+      "group_name": "ISOTONIC DRINKS SINGLE SERVE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "850841",
+        "1135768",
+        "1029968",
+        "968932",
+        "13115493",
+        "1085476"
+      ],
+      "events_pre22": 281,
+      "households_pre22": 166,
+      "raw_stable_key": "6df7b51e32dcaf2a587fc15bad3a5e6d719da9ecb5a11555ce574b997a2abe4c",
+      "candidate_source_set": "POOL221",
+      "stable_key": "2786a16e8c4d54eed581df44d92f03ec4cc7fd4a7f6e06bc18e6c0c5989b1dc2",
+      "set_id": "N052"
+    },
+    {
+      "group_name": "GRITS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "969205",
+        "965701",
+        "822161",
+        "827361",
+        "823255",
+        "1099991"
+      ],
+      "events_pre22": 128,
+      "households_pre22": 86,
+      "raw_stable_key": "c5433d8d904510e6db5a21d34e6e34062ad67faf5dacf8a9fe5f9624399c8bea",
+      "candidate_source_set": "POOL384",
+      "stable_key": "28cca640f070aafa8b60b01c6e050e7285649ad5b2b86d9bb20eb87a69b93e9e",
+      "set_id": "N053"
+    },
+    {
+      "group_name": "FRUIT BOWL AND CUPS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "948254",
+        "1024731",
+        "824915",
+        "1066725",
+        "5591154",
+        "1054814"
+      ],
+      "events_pre22": 408,
+      "households_pre22": 237,
+      "raw_stable_key": "748e6a54915695fa947077ebc3fef8760fa1b9249a50a60a4b82bee52d1c36b6",
+      "candidate_source_set": "POOL235",
+      "stable_key": "2ad59ed9cf829d7410e9108be523e55b6512ba671016f070caf64ccbe89daada",
+      "set_id": "N054"
+    },
+    {
+      "group_name": "SWEET GOODS - FULL SIZE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1110244",
+        "885697",
+        "900610",
+        "958569",
+        "868015",
+        "849870"
+      ],
+      "events_pre22": 529,
+      "households_pre22": 298,
+      "raw_stable_key": "af4d284076f763aee0b52a1f1ba7196bdb0a0d47f35e630c225d48b88c45ba40",
+      "candidate_source_set": "POOL353",
+      "stable_key": "2b16cf6259055e8b3faffb4a023d43fb7429ca2410256ca93d8dcdd31505e37a",
+      "set_id": "N055"
+    },
+    {
+      "group_name": "VARIETY BEANS - KIDNEY PINTO",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1110793",
+        "910745",
+        "1034499",
+        "852035",
+        "965331",
+        "820361"
+      ],
+      "events_pre22": 419,
+      "households_pre22": 260,
+      "raw_stable_key": "c2dfe9d081c621e7ce10544497f03de9ddc0fa4019fac3ef57aa8521d47b2f15",
+      "candidate_source_set": "POOL381",
+      "stable_key": "2b9ad96e5f9d792cf525a3c03b2343db50b5fb85a58bbcaa9d26b665c4b05f06",
+      "set_id": "N056"
+    },
+    {
+      "group_name": "CANDY BAGS-CHOCOCLATE",
+      "department": "DRUG GM",
+      "candidate_products": [
+        "12731413",
+        "8293470",
+        "12456474",
+        "1017072",
+        "1034886",
+        "846502"
+      ],
+      "events_pre22": 126,
+      "households_pre22": 100,
+      "raw_stable_key": "68565dc89ed1e3bc1fa45c2b9ac26974b56d466b620555202f86466f0e1b1500",
+      "candidate_source_set": "POOL210",
+      "stable_key": "2c2c15c59a1ee56a9c637b253c0fef373081432ca57168123cdd89d896048134",
+      "set_id": "N057"
+    },
+    {
+      "group_name": "MALTED MLK/SYRUP/PWDRS (EGGNOG",
+      "department": "GROCERY",
+      "candidate_products": [
+        "822785",
+        "1124081",
+        "845622",
+        "826860",
+        "985866",
+        "894401"
+      ],
+      "events_pre22": 325,
+      "households_pre22": 230,
+      "raw_stable_key": "12a1c99e66d72c8434ba9f85b07c6e2713563fa0990b58023c2a350be5cc3fac",
+      "candidate_source_set": "POOL037",
+      "stable_key": "2c88dd5831a5d88c6eb95cdca554c9dfcf4fbc8091ef5848fcdc2a24869035e3",
+      "set_id": "N058"
+    },
+    {
+      "group_name": "EGGS - JUMBO",
+      "department": "GROCERY",
+      "candidate_products": [
+        "821083",
+        "1905092",
+        "130783",
+        "13006904",
+        "1372706",
+        "1379367"
+      ],
+      "events_pre22": 213,
+      "households_pre22": 94,
+      "raw_stable_key": "01f149bedf4d004d6bad14db596ca1beedc5ec5330280aef951c8df7a23fb120",
+      "candidate_source_set": "POOL002",
+      "stable_key": "2d12c7f18c43880d359a053744dd61af240bc447777f3fcfe520baa377ab2987",
+      "set_id": "N059"
+    },
+    {
+      "group_name": "CHEESE: PROCESSED BULK",
+      "department": "DELI",
+      "candidate_products": [
+        "1040807",
+        "819978",
+        "833598",
+        "1109778",
+        "1042571",
+        "853448"
+      ],
+      "events_pre22": 643,
+      "households_pre22": 246,
+      "raw_stable_key": "2318e5cdc69bee0c867d4f91489551cbd51c081b1d1263531f12a8757abcf423",
+      "candidate_source_set": "POOL069",
+      "stable_key": "2d97526d2ff0587b4bcc16df89085d217442e9da94716ef58f50129f4b4649c5",
+      "set_id": "N060"
+    },
+    {
+      "group_name": "PEARS ANJOU",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "901666",
+        "996114",
+        "899346",
+        "13504597",
+        "187504",
+        "1620097"
+      ],
+      "events_pre22": 344,
+      "households_pre22": 171,
+      "raw_stable_key": "fef31707219067657804c24edcad43984401964cf8cc1357be64e1d7d94f079e",
+      "candidate_source_set": "POOL506",
+      "stable_key": "2e05e62c5c5d56e44877d83f8a01cc4e9464b5cdcd7e9bea0a6bf90da405ab1d",
+      "set_id": "N061"
+    },
+    {
+      "group_name": "CORN CHIPS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1022053",
+        "844818",
+        "1133556",
+        "932675",
+        "880469",
+        "843450"
+      ],
+      "events_pre22": 529,
+      "households_pre22": 320,
+      "raw_stable_key": "06c3c5d549e0f226f3d8e405cdd8f937b271ee041962d406c5602570c0f5d6e3",
+      "candidate_source_set": "POOL015",
+      "stable_key": "3016acac7b0e0018fbf6252be39b34392efb4244fd16278f749a66fa746fdd9c",
+      "set_id": "N062"
+    },
+    {
+      "group_name": "BROWNIE MIX",
+      "department": "GROCERY",
+      "candidate_products": [
+        "897295",
+        "943076",
+        "12185235",
+        "866528",
+        "830965",
+        "10149863"
+      ],
+      "events_pre22": 208,
+      "households_pre22": 160,
+      "raw_stable_key": "37255469807c3ef9f99a471c1ccb462b9625295c9a6e12bc770291d9f4879d78",
+      "candidate_source_set": "POOL112",
+      "stable_key": "301a05b591315425a12995943198481c40375f7bf741c41c35b4897afffcfe9c",
+      "set_id": "N063"
+    },
+    {
+      "group_name": "FRZN SS PREMIUM ENTREES/DNRS/T",
+      "department": "GROCERY",
+      "candidate_products": [
+        "9419470",
+        "911311",
+        "954495",
+        "1065061",
+        "996009",
+        "989409"
+      ],
+      "events_pre22": 304,
+      "households_pre22": 151,
+      "raw_stable_key": "b2f929aa8fb2a8c9b39b14908461f6d792533f3a681a6ee10c5f641105ec2a1c",
+      "candidate_source_set": "POOL360",
+      "stable_key": "301f7074a3dd4b8fcf07c3445e175b6857624c00f930128a7ffc9ebd89bd7ea9",
+      "set_id": "N064"
+    },
+    {
+      "group_name": "NON-IWS SINGLE CHEESE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1048727",
+        "1044188",
+        "843464",
+        "1077745",
+        "964342",
+        "9420177"
+      ],
+      "events_pre22": 251,
+      "households_pre22": 111,
+      "raw_stable_key": "5c0aa38f7832f62cbc215591f1e6c6768566d09287093790ada9669f0b95ba5c",
+      "candidate_source_set": "POOL183",
+      "stable_key": "306481747dd320983baf20dfffb07b39b6a505c9b54c874a6d5776e8a6502eae",
+      "set_id": "N065"
+    },
+    {
+      "group_name": "MARSHMALLOWS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "868971",
+        "866172",
+        "1130323",
+        "1112598",
+        "913414",
+        "994868"
+      ],
+      "events_pre22": 253,
+      "households_pre22": 200,
+      "raw_stable_key": "bc5fa9a02a57a1f61611138a58301c5962391baaad463c71b7d666a15fc0b075",
+      "candidate_source_set": "POOL370",
+      "stable_key": "319d80c4154b8eaad36468e39fad45d18df1e77c4717bd49406a3a26e4fb84b4",
+      "set_id": "N066"
+    },
+    {
+      "group_name": "HOT DOG BUNS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1098066",
+        "1049897",
+        "979973",
+        "846550",
+        "923559",
+        "6919165"
+      ],
+      "events_pre22": 1439,
+      "households_pre22": 710,
+      "raw_stable_key": "524037dfdd2228eeaa48beebd3fadf22b542967f2d5e7db1db0efedd9bb1528d",
+      "candidate_source_set": "POOL164",
+      "stable_key": "320e533760b5baa6822ce42581f9f722cfebafaad8ee1f1f11fee39cb7dc0fc8",
+      "set_id": "N067"
+    },
+    {
+      "group_name": "SANDWICH SAUCE HORSERADISH SA",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1089954",
+        "1006414",
+        "846380",
+        "847174",
+        "1053733",
+        "8159841"
+      ],
+      "events_pre22": 187,
+      "households_pre22": 152,
+      "raw_stable_key": "b1172508e017a0853c1cf2d8fb3439d3801b71e5afac9d23947a177284f0daf9",
+      "candidate_source_set": "POOL356",
+      "stable_key": "3214fda62694e24ef34b7561e232bf5a6c697f5f1352216ed7ef0f7733e2bcc8",
+      "set_id": "N068"
+    },
+    {
+      "group_name": "REFRIGERATED PUDDING",
+      "department": "GROCERY",
+      "candidate_products": [
+        "9297474",
+        "867547",
+        "989830",
+        "947146",
+        "842769",
+        "889551"
+      ],
+      "events_pre22": 225,
+      "households_pre22": 135,
+      "raw_stable_key": "609a7c0b7ae3e53466d061372641b39058e5572f946c81b85e4895399254edfd",
+      "candidate_source_set": "POOL192",
+      "stable_key": "33484816761f35ba4e6ce5b68df85d4f8270da20f8c1e5e366a1819912e8f5c9",
+      "set_id": "N069"
+    },
+    {
+      "group_name": "INSTANT COFFEE FLAVORED NO SWE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "7024847",
+        "1008596",
+        "1053329",
+        "13671978",
+        "6034239",
+        "9213586"
+      ],
+      "events_pre22": 123,
+      "households_pre22": 64,
+      "raw_stable_key": "f27f005c39f4e799197b7270a40e6abb78b857cace29cb3e38705490a843983f",
+      "candidate_source_set": "POOL479",
+      "stable_key": "33f3c0bfb07ca4803a6709ec8433e000d1f10a524d2667ea73092fc5afa195ad",
+      "set_id": "N070"
+    },
+    {
+      "group_name": "DOG TREATS (SOFT TREATS)",
+      "department": "GROCERY",
+      "candidate_products": [
+        "838136",
+        "958208",
+        "819400",
+        "1046037",
+        "851343",
+        "1003321"
+      ],
+      "events_pre22": 131,
+      "households_pre22": 56,
+      "raw_stable_key": "03b323f065a11066cbf6a90ad2d1049e2825d7867a866497f7c6b1bd209f0fee",
+      "candidate_source_set": "POOL010",
+      "stable_key": "33ff3606707c3427f0f4c9e100702057648b767bf89a6e1e88d1902690ed49a6",
+      "set_id": "N071"
+    },
+    {
+      "group_name": "PIZZA SAUCE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1139184",
+        "995134",
+        "1117537",
+        "954177",
+        "904618",
+        "1039505"
+      ],
+      "events_pre22": 182,
+      "households_pre22": 121,
+      "raw_stable_key": "6084cfd7bdb203b0e54ba6873b3d0b7b9b723bf6dc64fdba6f941e2c744058a3",
+      "candidate_source_set": "POOL191",
+      "stable_key": "340bea2f988a056ed535e1fbc1f4dd26f627d5a3de660d0415828cbd263bb533",
+      "set_id": "N072"
+    },
+    {
+      "group_name": "LIQUID BLEACH",
+      "department": "GROCERY",
+      "candidate_products": [
+        "981521",
+        "958137",
+        "995230",
+        "1053176",
+        "1044299",
+        "845196"
+      ],
+      "events_pre22": 394,
+      "households_pre22": 254,
+      "raw_stable_key": "72464c185c4c801b31811a812f889d1e46879be3411d2a9a40c5ecb4cd94b1e9",
+      "candidate_source_set": "POOL232",
+      "stable_key": "345d890e046f49d08f020a516985e331774e3b3eeaa8a26b75c09d7591330852",
+      "set_id": "N073"
+    },
+    {
+      "group_name": "BASIC PAPER PLATES",
+      "department": "GROCERY",
+      "candidate_products": [
+        "828867",
+        "1110218",
+        "1134222",
+        "8358065",
+        "65252",
+        "5565024"
+      ],
+      "events_pre22": 281,
+      "households_pre22": 189,
+      "raw_stable_key": "516e0f34061a06957b3b2597ed6ba4573d7bddd6e378d4a889dfa9771ab55ace",
+      "candidate_source_set": "POOL160",
+      "stable_key": "34cbca4acf295065c125b5bd113f09abb384fe076fb3c9cc208266e5dc7b7480",
+      "set_id": "N074"
+    },
+    {
+      "group_name": "CREAM CHEESE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1071939",
+        "914190",
+        "843756",
+        "843346",
+        "928754",
+        "860528"
+      ],
+      "events_pre22": 1003,
+      "households_pre22": 557,
+      "raw_stable_key": "e65aca232b48dc6a1eaa58d18c6cd107c22b0c1787060a4cc5d5ae7ec9b78c6f",
+      "candidate_source_set": "POOL446",
+      "stable_key": "34eb7b99ee29e7de891acbf98ac2c39f08bf29fff47a0365b8c944a8d5c08d6b",
+      "set_id": "N075"
+    },
+    {
+      "group_name": "MEAT: LUNCHMEAT BULK",
+      "department": "DELI",
+      "candidate_products": [
+        "1101010",
+        "922561",
+        "983959",
+        "895930",
+        "932949",
+        "1076769"
+      ],
+      "events_pre22": 691,
+      "households_pre22": 245,
+      "raw_stable_key": "7548c0d4e66a111407714f87698c73b371a72f19268bb77cfba1a8302a10a250",
+      "candidate_source_set": "POOL236",
+      "stable_key": "34f722c03ed7e25317c108d3433e84a67074420d8b2960ed4fec488e00dcdc37",
+      "set_id": "N076"
+    },
+    {
+      "group_name": "NOODLE SIDE DISH MIXES",
+      "department": "GROCERY",
+      "candidate_products": [
+        "863506",
+        "821562",
+        "1058686",
+        "864615",
+        "932761",
+        "970714"
+      ],
+      "events_pre22": 201,
+      "households_pre22": 148,
+      "raw_stable_key": "97d04e3986a5634d97e57426395e2b3fb19ecf763493643b313146b4af57302c",
+      "candidate_source_set": "POOL303",
+      "stable_key": "3541cc9150a1a5b147ba1ddd45e9e70ad9948dad17cd8b145e73ed19e2285072",
+      "set_id": "N077"
+    },
+    {
+      "group_name": "FOOD STORAGE BAGS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "932242",
+        "1104695",
+        "1133169",
+        "860804",
+        "920041",
+        "6979516"
+      ],
+      "events_pre22": 177,
+      "households_pre22": 133,
+      "raw_stable_key": "d010f2c0ab07c8da32ed6e0aa0ba2294d23f5dd8a48cef0a5ed5a291fe00864f",
+      "candidate_source_set": "POOL410",
+      "stable_key": "35e61f40fa204a05b45ef602e32b315ffbb2654bf76780c2460eb637e85a5fca",
+      "set_id": "N078"
+    },
+    {
+      "group_name": "NATURAL CHEESE EXACT WT CHUNKS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "959985",
+        "1040371",
+        "819765",
+        "1013641",
+        "942817",
+        "900418"
+      ],
+      "events_pre22": 418,
+      "households_pre22": 238,
+      "raw_stable_key": "1f38866f83a95a45e5bbd82981c44b9c8a28553219a38a01a6c9ac20bf239d58",
+      "candidate_source_set": "POOL061",
+      "stable_key": "36011122102edd38241a756c1bca1c356232dab222996bd4930ac12912fea47c",
+      "set_id": "N079"
+    },
+    {
+      "group_name": "CHIX: ROTISSERIE (HOT)",
+      "department": "DELI",
+      "candidate_products": [
+        "8090440",
+        "961979",
+        "1125278",
+        "999250",
+        "823862",
+        "5129567"
+      ],
+      "events_pre22": 430,
+      "households_pre22": 233,
+      "raw_stable_key": "c21f8b9637e50d853a402058c67426c4a8b820eba969b853511ccc53969a1276",
+      "candidate_source_set": "POOL380",
+      "stable_key": "360a21566d8e3f4ef466e3d7c1ae1959c63fea5f300d89b0dd3322effae4bff6",
+      "set_id": "N080"
+    },
+    {
+      "group_name": "PEPPERS OTHER BELL",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "944137",
+        "5564004",
+        "2040556",
+        "261584",
+        "10340827",
+        "2574613"
+      ],
+      "events_pre22": 196,
+      "households_pre22": 119,
+      "raw_stable_key": "df0257f238d0f937b38b3db1102fd307abeff7c98cc10a627d86f938111a2dbb",
+      "candidate_source_set": "POOL434",
+      "stable_key": "3664236ddb55ae5ebafeaf6c7e95e438e6688fa591a23050e6b995058603fd1f",
+      "set_id": "N081"
+    },
+    {
+      "group_name": "CANDY BARS (SINGLES)(INCLUDING",
+      "department": "DRUG GM",
+      "candidate_products": [
+        "1080414",
+        "1055863",
+        "1051069",
+        "1124729",
+        "1118393",
+        "8160319"
+      ],
+      "events_pre22": 1232,
+      "households_pre22": 557,
+      "raw_stable_key": "70f7ad15de97f573d7d5476e027fe8224d5e42590f04eca8344a97653ffa82d0",
+      "candidate_source_set": "POOL228",
+      "stable_key": "36854fcbe16fb91aa5d68b2c9c1ed11bba9cad20b14c8773236bba5517cf7559",
+      "set_id": "N082"
+    },
+    {
+      "group_name": "ENHANCED",
+      "department": "MEAT",
+      "candidate_products": [
+        "12810393",
+        "1128240",
+        "12810391",
+        "947858",
+        "12810422",
+        "9835223"
+      ],
+      "events_pre22": 1045,
+      "households_pre22": 582,
+      "raw_stable_key": "1d9901e8e8c9e89ce0ad8e99ced514d95ed67bef8085ec83c44bd84ddca8d0d0",
+      "candidate_source_set": "POOL056",
+      "stable_key": "37a351fb44bff65f1264f207825105ae6359af219f57f737f2ea5f597c6b73cc",
+      "set_id": "N083"
+    },
+    {
+      "group_name": "ICE - CRUSHED/CUBED",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1102959",
+        "1130777",
+        "957951",
+        "1117128",
+        "1145882",
+        "12381594"
+      ],
+      "events_pre22": 413,
+      "households_pre22": 237,
+      "raw_stable_key": "fcf35e6ad429aa12974015e63521da40b01fe4e93fbace0a65ea448ec4a130fa",
+      "candidate_source_set": "POOL504",
+      "stable_key": "38124a70336bc806f0388ebc5e3d59d99cd5a9c2aece51cbd7610996c10eb986",
+      "set_id": "N084"
+    },
+    {
+      "group_name": "DAIRY CASE TEA WITH SUGAR OR S",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1070015",
+        "1190614",
+        "2797203",
+        "1138212",
+        "13876624",
+        "15511538"
+      ],
+      "events_pre22": 454,
+      "households_pre22": 130,
+      "raw_stable_key": "ef22a9b5cc167cb7659ce1159a7ae7ca4c78daf7ff5dc2d7841d822410d661ca",
+      "candidate_source_set": "POOL472",
+      "stable_key": "3826533e32d5cebc4ed9ff44bb5523d5502d9de76fcb3981f2c1d65aaa99cb02",
+      "set_id": "N085"
+    },
+    {
+      "group_name": "PLSTC CTLRYTBLCLTHSTTHPKSST",
+      "department": "GROCERY",
+      "candidate_products": [
+        "844054",
+        "12648967",
+        "12670071",
+        "869622",
+        "1022757",
+        "1002130"
+      ],
+      "events_pre22": 218,
+      "households_pre22": 180,
+      "raw_stable_key": "e587a525d20f63d2b08e21bbc0788151d8f07206fcbdb55e8df7d7c01c103aad",
+      "candidate_source_set": "POOL443",
+      "stable_key": "3845be8db134332f88cf7716c138047c2769da988fc5d36e7eefe498521fbdb3",
+      "set_id": "N086"
+    },
+    {
+      "group_name": "OTHER HOT CEREAL",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1096261",
+        "1012801",
+        "839192",
+        "1040788",
+        "981568",
+        "881857"
+      ],
+      "events_pre22": 124,
+      "households_pre22": 68,
+      "raw_stable_key": "4fa77c01cbe82985739b747be1efabbae56297d8a9d80196676801a2269dd6de",
+      "candidate_source_set": "POOL155",
+      "stable_key": "3871c046fa082954b1b1ffb29b8ced0974ab867fa8a67ba4cd702face0771e3e",
+      "set_id": "N087"
+    },
+    {
+      "group_name": "PREMIUM BREAD",
+      "department": "GROCERY",
+      "candidate_products": [
+        "880427",
+        "1094924",
+        "824305",
+        "1011926",
+        "963365",
+        "911388"
+      ],
+      "events_pre22": 388,
+      "households_pre22": 174,
+      "raw_stable_key": "cc469926af6c0d48e6d9fb3b7c27f22f3b0c5de97c7dafea2400a54dd0ed0fa4",
+      "candidate_source_set": "POOL400",
+      "stable_key": "39104e3935f7552b82ddc41a2b0d73ec29c079f921b429cb5bb18a6cf91c9ced",
+      "set_id": "N088"
+    },
+    {
+      "group_name": "CHICKEN-FULLY COOKED",
+      "department": "MEAT-PCKGD",
+      "candidate_products": [
+        "917407",
+        "8069350",
+        "878222",
+        "960075",
+        "936470",
+        "8069118"
+      ],
+      "events_pre22": 208,
+      "households_pre22": 110,
+      "raw_stable_key": "ac569b6d4fdda3c82a3b27d67a9f988315776708ee1e5644388ede2245e97140",
+      "candidate_source_set": "POOL347",
+      "stable_key": "39f519ec9c6535dcd015824b023053483751e30d5832329dff1b9b1e498041d7",
+      "set_id": "N089"
+    },
+    {
+      "group_name": "PAPER AND FOAM DRINKING CUPS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "876932",
+        "850529",
+        "826784",
+        "13213475",
+        "1030896",
+        "13213404"
+      ],
+      "events_pre22": 129,
+      "households_pre22": 91,
+      "raw_stable_key": "cbd3cf2fe62501f7969f0f19fc60e5928bcc3e3f075ef9ef662a9505c0322d30",
+      "candidate_source_set": "POOL398",
+      "stable_key": "39fc21a395b9dcb5dcb9de37242ec91be49b235d7b828e6894224aa25834d7e3",
+      "set_id": "N090"
+    },
+    {
+      "group_name": "BEEF - FULLY COOKED",
+      "department": "MEAT-PCKGD",
+      "candidate_products": [
+        "1002787",
+        "9526628",
+        "9296821",
+        "8119004",
+        "8205252",
+        "8249513"
+      ],
+      "events_pre22": 165,
+      "households_pre22": 112,
+      "raw_stable_key": "2c79f3079cefcdb5a24aa204bd1ee2c11049e0da19ecf0d5d5ea4e219e5fb17a",
+      "candidate_source_set": "POOL084",
+      "stable_key": "3b65aa8ddc9a3711b1020e74f8403458eb4c49b136b6d72ba771688d1fe779e3",
+      "set_id": "N091"
+    },
+    {
+      "group_name": "DISTILLED WATER",
+      "department": "GROCERY",
+      "candidate_products": [
+        "895540",
+        "1059763",
+        "1085447",
+        "835351",
+        "8249091",
+        "1364135"
+      ],
+      "events_pre22": 205,
+      "households_pre22": 92,
+      "raw_stable_key": "1164645efaece1081fd68d343b425c2b7a8006f5edd653b9efc0f52eee9463b4",
+      "candidate_source_set": "POOL035",
+      "stable_key": "3b8159a13e1d33bbf13356082be56669dd2b93f1f16d16894a77caba113fad26",
+      "set_id": "N092"
+    },
+    {
+      "group_name": "VINEGAR ALL-EXCEPT WINE/RIC",
+      "department": "GROCERY",
+      "candidate_products": [
+        "892264",
+        "961313",
+        "1059904",
+        "1068843",
+        "877226",
+        "931726"
+      ],
+      "events_pre22": 185,
+      "households_pre22": 159,
+      "raw_stable_key": "9c976bb5e06c3b7f6e5c84151bebdb5d879c08c99f55ce12707214da13d7ef44",
+      "candidate_source_set": "POOL312",
+      "stable_key": "3c7956f2f2cb5f129e08fc8a327ac2ddfd3f13e347466ccf2b2b81d90f7463f9",
+      "set_id": "N093"
+    },
+    {
+      "group_name": "WATER ICE",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1097815",
+        "1074509",
+        "1081017",
+        "833351",
+        "951761",
+        "1102879"
+      ],
+      "events_pre22": 226,
+      "households_pre22": 159,
+      "raw_stable_key": "e7ddb5b61589a52235cc21fc7a7c07ee5c6be53ba9b38843f86051ba54f2cab6",
+      "candidate_source_set": "POOL449",
+      "stable_key": "3d22147993db7c3e069d6807885c7f232b74ac87d2d645108ef685b8c49ae13e",
+      "set_id": "N094"
+    },
+    {
+      "group_name": "BREADINGS  COATINGS CRUMBS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1051402",
+        "924786",
+        "843656",
+        "907892",
+        "965821",
+        "883299"
+      ],
+      "events_pre22": 212,
+      "households_pre22": 155,
+      "raw_stable_key": "89dee0b0bd19d9ffad191703bb67cf3e09094a76178e7c8ee253bb20f7dab0e3",
+      "candidate_source_set": "POOL277",
+      "stable_key": "3db0be4f327918cab63def3de86dc9090f02f586f9dbd04cf732421b4a262b12",
+      "set_id": "N095"
+    },
+    {
+      "group_name": "POPCORN - MICROWAVE",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "1034134",
+        "927110",
+        "862152",
+        "1030455",
+        "896709",
+        "7143963"
+      ],
+      "events_pre22": 189,
+      "households_pre22": 133,
+      "raw_stable_key": "5c5872cb4fbfd82eefaab78d789c811621777e5b9b8e52e122b40f9aa208c678",
+      "candidate_source_set": "POOL184",
+      "stable_key": "3e3b7bf53d8e2c86b5ebacf90ba3fc578d4a0b9ce8c67d28165502ae535da9af",
+      "set_id": "N096"
+    },
+    {
+      "group_name": "HEAD LETTUCE",
+      "department": "PRODUCE",
+      "candidate_products": [
+        "904360",
+        "1055646",
+        "1678776",
+        "1188731",
+        "215923",
+        "1884261"
+      ],
+      "events_pre22": 1471,
+      "households_pre22": 647,
+      "raw_stable_key": "ed034c6c856dad28935aba3c954e95c2a22003a38f67e0ff6000ae5717625707",
+      "candidate_source_set": "POOL467",
+      "stable_key": "3fc507f6bdb6994646d33e5d0ef77727e96c43a3777deeb063f5d80753be8bc9",
+      "set_id": "N097"
+    },
+    {
+      "group_name": "REFRIGERATED BISCUITS REGULAR",
+      "department": "GROCERY",
+      "candidate_products": [
+        "1061220",
+        "960984",
+        "874061",
+        "1069979",
+        "1046689",
+        "889618"
+      ],
+      "events_pre22": 471,
+      "households_pre22": 280,
+      "raw_stable_key": "5add9e21d5b93e4c50e49dadbd22eedbdab4f8c825cf2c93233493beadaaeb98",
+      "candidate_source_set": "POOL182",
+      "stable_key": "3fec3986d3ddae9197b16564cf6cd59b210068d04b66aaf2651fcaa80ba7b035",
+      "set_id": "N098"
+    },
+    {
+      "group_name": "PORK-FULLY COOKED",
+      "department": "MEAT",
+      "candidate_products": [
+        "887503",
+        "917438",
+        "1061688",
+        "1101822",
+        "9527187",
+        "8119103"
+      ],
+      "events_pre22": 164,
+      "households_pre22": 117,
+      "raw_stable_key": "68dfc2bbca985240a5c7226b7a0b81e39916964b0f9c12b3bd2cfdcbc9184434",
+      "candidate_source_set": "POOL212",
+      "stable_key": "40324ab71938b9a42935fee971f325750cc7016a38b1c45f765d40eb332beddb",
+      "set_id": "N099"
+    },
+    {
+      "group_name": "CARROTS",
+      "department": "GROCERY",
+      "candidate_products": [
+        "836281",
+        "1035946",
+        "1071625",
+        "974794",
+        "9420254",
+        "1022668"
+      ],
+      "events_pre22": 198,
+      "households_pre22": 125,
+      "raw_stable_key": "d8c20766d1abdd8105b00a6ec1a32efb4632be0c57c768dfabe749c2de31678a",
+      "candidate_source_set": "POOL422",
+      "stable_key": "4087c16df433f2920277facd286ff43e940803d357bbdf094984d36bc98ebd70",
+      "set_id": "N100"
+    }
+  ]
+}

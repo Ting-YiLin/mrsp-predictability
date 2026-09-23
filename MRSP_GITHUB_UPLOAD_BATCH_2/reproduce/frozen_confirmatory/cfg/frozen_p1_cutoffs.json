@@ -1,0 +1,33 @@
+{
+  "0.6": {
+    "cutoff": 0.3608488067145302,
+    "coverage_actual_hist": 0.640718046086131,
+    "hist_accuracy": 0.6905980603448276,
+    "n_hist": 7424,
+    "qualifying_products": 9,
+    "hit_products": 7,
+    "hit_fraction": 0.7777777777777778,
+    "balanced_across_products": true
+  },
+  "0.7": {
+    "cutoff": 0.5231119438280639,
+    "coverage_actual_hist": 0.4000172607232243,
+    "hist_accuracy": 0.7695792880258899,
+    "n_hist": 4635,
+    "qualifying_products": 9,
+    "hit_products": 7,
+    "hit_fraction": 0.7777777777777778,
+    "balanced_across_products": true
+  },
+  "0.8": {
+    "cutoff": 0.6660270791857679,
+    "coverage_actual_hist": 0.2000517821696729,
+    "hist_accuracy": 0.869283865401208,
+    "n_hist": 2318,
+    "qualifying_products": 6,
+    "hit_products": 4,
+    "hit_fraction": 0.6666666666666666,
+    "balanced_across_products": true
+  },
+  "0.9": null
+}

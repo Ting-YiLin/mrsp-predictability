@@ -1,0 +1,47 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_CONFIRMATORY_V1",
+  "walk_forward_blocks": [
+    {"id":"W1","fit_max":17,"tune_min":18,"tune_max":22,"eval_min":23,"eval_max":27},
+    {"id":"W2","fit_max":22,"tune_min":23,"tune_max":27,"eval_min":28,"eval_max":32},
+    {"id":"W3","fit_max":27,"tune_min":28,"tune_max":32,"eval_min":33,"eval_max":37},
+    {"id":"W4","fit_max":32,"tune_min":33,"tune_max":37,"eval_min":38,"eval_max":42},
+    {"id":"W5","fit_max":37,"tune_min":38,"tune_max":42,"eval_min":43,"eval_max":47},
+    {"id":"W6","fit_max":42,"tune_min":43,"tune_max":47,"eval_min":48,"eval_max":53}
+  ],
+  "new_product_eval_blocks": ["W3","W4","W5","W6"],
+  "targets": [0.6,0.7,0.8],
+  "personalization_gain_min_pp": 3.0,
+  "min_product_prior_events": 100,
+  "min_subset_prior_events": 50,
+  "min_prior_blocks": 2,
+  "product_active_min_coverage": 0.10,
+  "target_tolerance_pp": 3.0,
+  "product_bootstrap_reps": 600,
+  "product_bootstrap_seed": 20260921,
+  "representative_success": {
+    "0.6": {"min_coverage":0.30,"min_accuracy":0.70,"min_active_product_fraction":0.45,"min_target_hit_fraction":0.70},
+    "0.7": {"min_coverage":0.15,"min_accuracy":0.78,"min_active_product_fraction":0.20,"min_target_hit_fraction":0.65},
+    "0.8": {"min_coverage":0.08,"min_accuracy":0.84,"min_active_product_fraction":0.10,"min_target_hit_fraction":0.60}
+  },
+  "representative_min_targets_pass": 2,
+  "representative_require_target_0_6": true,
+  "department_challenge": {
+    "target": 0.6,
+    "min_products_per_department": 5,
+    "min_supported_departments": 4,
+    "min_selective_coverage": 0.20,
+    "min_accuracy_gain_vs_b1_pp": 10.0,
+    "min_positive_department_fraction": 0.6666666666666666
+  },
+  "min_representative_evaluated_products": 90,
+  "min_challenge_evaluated_products": 50,
+  "evidence_cap": "SECOND_UNTOUCHED_CROSS_PRODUCT_CONFIRMATION_WITHIN_PANEL",
+  "forbidden": [
+    "recalibrate P1 cutoffs on second-batch outcomes",
+    "change P1 formula",
+    "select candidates using week>22 outcomes",
+    "reuse Gen1 N001-N100 candidate groups",
+    "use B2 or learned gate",
+    "claim external validation"
+  ]
+}

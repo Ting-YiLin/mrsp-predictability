@@ -1,0 +1,9 @@
+{
+  "source_recon": "MRSP_UPSTREAM_SOURCE_RECON_20260921.md",
+  "canonical_cj9": "C:\\MR\\data\\CJ9",
+  "documented_candidate_pool": 507,
+  "prior_gen1_selected": 100,
+  "prior_materializer_sha256": "ee703f438c66752c2fe6978f452e862e68ecba1e40bd346d3fb4a7b66474b02d",
+  "prior_generalization_audit": "MRSP_PREDICTABILITY_GENERALIZATION_AUDIT_20260921_163956.zip",
+  "provenance_bundle": "MRSP_PREDICTABILITY_GENERALIZATION_UPLOAD_20260921.zip"
+}

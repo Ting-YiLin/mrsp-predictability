@@ -1,0 +1,217 @@
+{
+  "campaign": "MRSP_PREDICTABILITY_GENERALIZATION_V1",
+  "roots": {
+    "cj9": "C:\\MR\\data\\CJ9",
+    "cj9_replan": "C:\\MR\\data\\CJ9_REPLAN",
+    "cj11": "C:\\MR\\data\\CJ11"
+  },
+  "primary_sets": [
+    {
+      "id": "B01",
+      "control": false,
+      "source_root": "cj9",
+      "source_set": "S02",
+      "group_name": "FLUID MILK WHITE ONLY",
+      "display_name": "白色液态牛奶",
+      "candidate_products": [
+        "995242",
+        "1029743",
+        "1106523",
+        "1133018",
+        "1058997",
+        "862349"
+      ]
+    },
+    {
+      "id": "B02",
+      "control": false,
+      "source_root": "cj9",
+      "source_set": "S03",
+      "group_name": "MAINSTREAM WHITE BREAD",
+      "display_name": "主流白面包",
+      "candidate_products": [
+        "883404",
+        "951590",
+        "962229",
+        "999971",
+        "1015247",
+        "873627"
+      ]
+    },
+    {
+      "id": "B03",
+      "control": false,
+      "source_root": "cj9_replan",
+      "source_set": "R01",
+      "group_name": "MAINSTREAM WHEAT/MULTIGRAIN BR",
+      "display_name": "主流小麦／杂粮面包",
+      "candidate_products": [
+        "849843",
+        "885290",
+        "847789",
+        "1082212",
+        "6944571",
+        "993466"
+      ]
+    },
+    {
+      "id": "M01",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "M01",
+      "group_name": "ONIONS SWEET (BULK&BAG)",
+      "display_name": "甜洋葱",
+      "candidate_products": [
+        "1033142",
+        "979707",
+        "930553",
+        "6602440",
+        "908130",
+        "979559"
+      ]
+    },
+    {
+      "id": "M02",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "M02",
+      "group_name": "ORANGES NAVELS ALL",
+      "display_name": "脐橙",
+      "candidate_products": [
+        "820165",
+        "986947",
+        "1137284",
+        "1008547",
+        "846986",
+        "831557"
+      ]
+    },
+    {
+      "id": "M03",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "M03",
+      "group_name": "REGULAR GARDEN",
+      "display_name": "REGULAR GARDEN（常规园艺类）",
+      "candidate_products": [
+        "847982",
+        "1096317",
+        "1074333",
+        "9836460",
+        "841228",
+        "12731306"
+      ]
+    },
+    {
+      "id": "H01",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "H01",
+      "group_name": "POTATOES RUSSET (BULK&BAG)",
+      "display_name": "褐皮马铃薯",
+      "candidate_products": [
+        "1004906",
+        "899624",
+        "1003600",
+        "952163",
+        "1046545",
+        "9705473"
+      ]
+    },
+    {
+      "id": "H02",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "H02",
+      "group_name": "VARIETY LETTUCE",
+      "display_name": "综合生菜",
+      "candidate_products": [
+        "1119051",
+        "825541",
+        "874149",
+        "854754",
+        "1039682",
+        "957422"
+      ]
+    },
+    {
+      "id": "H03",
+      "control": false,
+      "source_root": "cj11",
+      "source_set": "H03",
+      "group_name": "INSTORE CUT FRUIT",
+      "display_name": "店内切水果",
+      "candidate_products": [
+        "879528",
+        "1112238",
+        "1002771",
+        "1010582",
+        "825994",
+        "900697"
+      ]
+    }
+  ],
+  "control_sets": [
+    {
+      "id": "C01",
+      "control": true,
+      "source_root": "cj11",
+      "source_set": "L01",
+      "group_name": "BANANAS",
+      "display_name": "香蕉",
+      "candidate_products": [
+        "1082185",
+        "12518330",
+        "201704",
+        "1870702",
+        "1121193",
+        "1313189"
+      ]
+    },
+    {
+      "id": "C02",
+      "control": true,
+      "source_root": "cj11",
+      "source_set": "L02",
+      "group_name": "STRAWBERRIES",
+      "display_name": "草莓",
+      "candidate_products": [
+        "1127831",
+        "860299",
+        "1135476",
+        "861821",
+        "1028944",
+        "9190318"
+      ]
+    },
+    {
+      "id": "C03",
+      "control": true,
+      "source_root": "cj11",
+      "source_set": "L03",
+      "group_name": "CUCUMBERS",
+      "display_name": "黄瓜",
+      "candidate_products": [
+        "860776",
+        "1018050",
+        "1005456",
+        "1017313",
+        "990604",
+        "1848541"
+      ]
+    }
+  ],
+  "lambda_grid": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    8.0,
+    12.0,
+    20.0,
+    40.0
+  ],
+  "seed": 20260921,
+  "max_workers": 3
+}
