@@ -1,0 +1,9 @@
+claim_id,evidence_id,public_file
+C1,E013,README.md
+C2,E001,README.md
+C3,E006,REPORT.md
+C4,E007,docs/methods.md
+C5,E008,README.md
+C6,E010,README.md
+C7,E011,REPORT.md
+C8,E010,README.md

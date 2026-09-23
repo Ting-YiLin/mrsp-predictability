@@ -1,0 +1,4108 @@
+{
+  "status": "PASS",
+  "campaign": "MRSP_PREDICTABILITY_CONFIRMATORY_V1",
+  "source_cj9": "C:\\MR\\data\\CJ9",
+  "pool_summary": {
+    "pre22_rows": 594831,
+    "raw_candidates": 507,
+    "duplicates_removed": 0,
+    "pool_after_dedup": 507
+  },
+  "selection_summary": {
+    "remaining_after_prior": 407,
+    "representative_n": 100,
+    "challenge_n": 100,
+    "challenge_department_counts": {
+      "GROCERY": 10,
+      "MEAT-PCKGD": 17,
+      "NUTRITION": 2,
+      "SEAFOOD-PCKGD": 2,
+      "PRODUCE": 17,
+      "SEAFOOD": 3,
+      "DELI": 7,
+      "SALAD BAR": 2,
+      "PASTRY": 11,
+      "MEAT": 13,
+      "DRUG GM": 16
+    }
+  },
+  "selected_sets": [
+    {
+      "id": "R001",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R001",
+      "group_name": "GRAPES RED",
+      "display_name": "GRAPES RED",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "878996",
+        "1105488",
+        "857006",
+        "220477",
+        "1708699",
+        "1346832"
+      ],
+      "stable_key": "9d54ed2a38287708df3a10f8d2c114212d70831075b6a651ac3adca305e1d9f0"
+    },
+    {
+      "id": "R002",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R002",
+      "group_name": "PASTA: CANNED",
+      "display_name": "PASTA: CANNED",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "822407",
+        "930917",
+        "892008",
+        "1045220",
+        "848015",
+        "931777"
+      ],
+      "stable_key": "e88620945a003696d403eedd8359e2765a47aaea8f8d7ddfaa1d97c622072a3b"
+    },
+    {
+      "id": "R003",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R003",
+      "group_name": "LIQUID LAUNDRY DETERGENTS",
+      "display_name": "LIQUID LAUNDRY DETERGENTS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "9419525",
+        "1044724",
+        "820321",
+        "952972",
+        "1131312",
+        "851129"
+      ],
+      "stable_key": "60073476e30dca397b3e14d8959b6bd7f1cca3731e6751aacdfb1b40a0e55c08"
+    },
+    {
+      "id": "R004",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R004",
+      "group_name": "GRND/PATTY - FROZEN",
+      "display_name": "GRND/PATTY - FROZEN",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1012587",
+        "904129",
+        "887474",
+        "844462",
+        "835595",
+        "6979248"
+      ],
+      "stable_key": "a942dca2022f06456fada347da5ae3c237b2b35a7ef729e292692719b9bbe522"
+    },
+    {
+      "id": "R005",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R005",
+      "group_name": "ANGUS",
+      "display_name": "ANGUS",
+      "department": "MEAT",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "944836",
+        "9245106",
+        "13506200",
+        "13504479",
+        "12352102",
+        "13504480"
+      ],
+      "stable_key": "8a3aec83c1cd3b4fd6748966ce58fafe904c10f63023730ff611b25221dcef81"
+    },
+    {
+      "id": "R006",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R006",
+      "group_name": "DINNER ROLLS",
+      "display_name": "DINNER ROLLS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "915041",
+        "1131974",
+        "1138953",
+        "1031633",
+        "1105108",
+        "907308"
+      ],
+      "stable_key": "c66180e660737fb56766c4e816522c70e843e836c62c1f11b0ecdeca1c706a1a"
+    },
+    {
+      "id": "R007",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R007",
+      "group_name": "CELERY",
+      "display_name": "CELERY",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "962568",
+        "865178",
+        "1068715",
+        "1957899",
+        "2061589",
+        "1158433"
+      ],
+      "stable_key": "9fcf416f3f630f4b208b3164a05ba9d06b40dd4e9435181026cc20d9e3ebadf6"
+    },
+    {
+      "id": "R008",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R008",
+      "group_name": "ROMA TOMATOES (BULK/PKG)",
+      "display_name": "ROMA TOMATOES (BULK/PKG)",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1026118",
+        "6919363",
+        "2532865",
+        "1766903",
+        "254038",
+        "1166131"
+      ],
+      "stable_key": "471b4dc93e5b1f3937315e24136d72b9106716361a530f42c644038d636853f4"
+    },
+    {
+      "id": "R009",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R009",
+      "group_name": "TOASTER PASTRIES",
+      "display_name": "TOASTER PASTRIES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1022119",
+        "944466",
+        "1014802",
+        "1097239",
+        "997988",
+        "865511"
+      ],
+      "stable_key": "61f581449518a11992c89b863aa92b201443b2771fc1df33f0f6b78d032b25e7"
+    },
+    {
+      "id": "R010",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R010",
+      "group_name": "ORGANIC HERBS",
+      "display_name": "ORGANIC HERBS",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "13071902",
+        "13071586",
+        "13071901",
+        "13073103",
+        "12263172",
+        "13072677"
+      ],
+      "stable_key": "b3581c0a6772eb4ec4ad407dccef2ee8d698635a81fbc33178d5ce3bd0f7a205"
+    },
+    {
+      "id": "R011",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R011",
+      "group_name": "SPICES & SEASONINGS",
+      "display_name": "SPICES & SEASONINGS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "896938",
+        "998556",
+        "1074499",
+        "1019230",
+        "1003838",
+        "829138"
+      ],
+      "stable_key": "9e825d44a2555a8512eaba9361d6656f93afb6f75982be09f7fd610e8104ad74"
+    },
+    {
+      "id": "R012",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R012",
+      "group_name": "MANDARIN ORANGES/CITRUS SECT",
+      "display_name": "MANDARIN ORANGES/CITRUS SECT",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1123086",
+        "1103741",
+        "1052046",
+        "7410071",
+        "1044404",
+        "1062283"
+      ],
+      "stable_key": "460fe47f9290c10546dbf37235f27a308d7be3ce219d7e4a905088435ba864a9"
+    },
+    {
+      "id": "R013",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R013",
+      "group_name": "TEA CAN WITH SWEETENER/SUGAR",
+      "display_name": "TEA CAN WITH SWEETENER/SUGAR",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "8090956",
+        "934697",
+        "5574045",
+        "1006555",
+        "949875",
+        "833648"
+      ],
+      "stable_key": "a23a5a1c7237e5fcf8ff710c407220c8b92fbfa7645203139794256ec2219f03"
+    },
+    {
+      "id": "R014",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R014",
+      "group_name": "TOOTHPASTE",
+      "display_name": "TOOTHPASTE",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1128271",
+        "949684",
+        "1067787",
+        "983858",
+        "5567176",
+        "835796"
+      ],
+      "stable_key": "c4b6653f092220f829236ddff82e816689d78291e234d5e702b71266ec01d25e"
+    },
+    {
+      "id": "R015",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R015",
+      "group_name": "POULTRY",
+      "display_name": "POULTRY",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1013167",
+        "8273833",
+        "8293447",
+        "6514160",
+        "6633273",
+        "855488"
+      ],
+      "stable_key": "f8e741dccf6e8be8e53887fd1afdc39694a86513baf24e3b76c92f76c5f05c82"
+    },
+    {
+      "id": "R016",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R016",
+      "group_name": "TOMATOES HOT HOUSE BULK",
+      "display_name": "TOMATOES HOT HOUSE BULK",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "837270",
+        "1204778",
+        "2596189",
+        "1465296",
+        "2465439",
+        "2626149"
+      ],
+      "stable_key": "54f00eaec83bf522111912cbbe0fa661369005b3b996a53aab8f66c5d63272f5"
+    },
+    {
+      "id": "R017",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R017",
+      "group_name": "SEASONAL MISCELLANEOUS",
+      "display_name": "SEASONAL MISCELLANEOUS",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "975604",
+        "1036431",
+        "955888",
+        "6034249",
+        "1116624",
+        "6514124"
+      ],
+      "stable_key": "98ab28e3aaadbf233d854be3fd6ea8030526f102d75a8bd5404dae99e2d672db"
+    },
+    {
+      "id": "R018",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R018",
+      "group_name": "MUFFIN & CORN BREAD MIX",
+      "display_name": "MUFFIN & CORN BREAD MIX",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "907014",
+        "948756",
+        "1063364",
+        "1095032",
+        "885686",
+        "996574"
+      ],
+      "stable_key": "d3de4a64c35762f8c6eb70aa2b561c05574cb325c18ea2c3519b4c54461692b3"
+    },
+    {
+      "id": "R019",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R019",
+      "group_name": "PEPPERS RED BELL",
+      "display_name": "PEPPERS RED BELL",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "970030",
+        "1046262",
+        "996567",
+        "645093",
+        "87493",
+        "3800897"
+      ],
+      "stable_key": "988e19d0a9d81b596e113a2ad7071b47c6ea338d44bd08eb4696095d275bc49c"
+    },
+    {
+      "id": "R020",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R020",
+      "group_name": "SOFT DRINKS 6PK/4PK CAN CARB (",
+      "display_name": "SOFT DRINKS 6PK/4PK CAN CARB (",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "6632283",
+        "6533368",
+        "1007269",
+        "1070803",
+        "6704207",
+        "5565322"
+      ],
+      "stable_key": "8fd8331779a69ad569bda1cf12941896420987b2ca055bfe6fa90b08a06fddba"
+    },
+    {
+      "id": "R021",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R021",
+      "group_name": "LUNCH COMBO",
+      "display_name": "LUNCH COMBO",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "999581",
+        "843744",
+        "908504",
+        "845774",
+        "901543",
+        "827570"
+      ],
+      "stable_key": "5ff3c46ef8af5b24e2eb764c97b72de550c0912f2ca9ec4468f42cf0006beda6"
+    },
+    {
+      "id": "R022",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R022",
+      "group_name": "CONVENTIONAL LITTER",
+      "display_name": "CONVENTIONAL LITTER",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1004555",
+        "988116",
+        "990256",
+        "1090884",
+        "853998",
+        "887078"
+      ],
+      "stable_key": "f00c0c1ef78762d7e139ad1c5f8249a2cb2fcce2a9d59c1117f265abb3cd8269"
+    },
+    {
+      "id": "R023",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R023",
+      "group_name": "ONIONS RED (BULK&BAG)",
+      "display_name": "ONIONS RED (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "870515",
+        "970202",
+        "1167633",
+        "196144",
+        "852296",
+        "1801591"
+      ],
+      "stable_key": "fdf34ffdaa6c42dab5477dcd167c7c9b98b64ed62582888b320fb42d0a92e428"
+    },
+    {
+      "id": "R024",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R024",
+      "group_name": "MISCELLANEOUS CHEESE",
+      "display_name": "MISCELLANEOUS CHEESE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1006250",
+        "964011",
+        "828143",
+        "945998",
+        "1085696",
+        "837012"
+      ],
+      "stable_key": "ea3258e2868f137609aed8f46df9e64ff9fc501bca61edc6385c79e61c73864d"
+    },
+    {
+      "id": "R025",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R025",
+      "group_name": "TOMATO SAUCE",
+      "display_name": "TOMATO SAUCE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1074405",
+        "938566",
+        "976300",
+        "965719",
+        "1080331",
+        "912137"
+      ],
+      "stable_key": "4871de687cec0e0545955a1318e11732019e4ddedb9c7b156767e6db1dcd9a24"
+    },
+    {
+      "id": "R026",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R026",
+      "group_name": "REFRIGERATED BAGELS",
+      "display_name": "REFRIGERATED BAGELS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "997202",
+        "1000908",
+        "891405",
+        "1020156",
+        "1000970",
+        "963206"
+      ],
+      "stable_key": "52144b5e4f0a38352a3bce22d13b18f8a15f0f7581f02775771956c605abe9b8"
+    },
+    {
+      "id": "R027",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R027",
+      "group_name": "PREMIUM PINTS",
+      "display_name": "PREMIUM PINTS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "907418",
+        "915874",
+        "910151",
+        "1062973",
+        "961447",
+        "845675"
+      ],
+      "stable_key": "955a47d31f0764f942481ccb4fb44e0ec8e76339cc6e2103e6fc4c95522a9b07"
+    },
+    {
+      "id": "R028",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R028",
+      "group_name": "POTATO CHIPS",
+      "display_name": "POTATO CHIPS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "9526410",
+        "9527290",
+        "9527494",
+        "9526411",
+        "9527160",
+        "1075470"
+      ],
+      "stable_key": "5c34b716dffd8567269d9a8f66abcb419b6a2f32ba8d97d9d8eaae04e0a29227"
+    },
+    {
+      "id": "R029",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R029",
+      "group_name": "LOAF CHEESE",
+      "display_name": "LOAF CHEESE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "865456",
+        "12695224",
+        "1004475",
+        "945611",
+        "1069575",
+        "1003524"
+      ],
+      "stable_key": "6d77189a30dc9db1c32ce468adde4420cb6c2e5c86ad149b486a2174c6201376"
+    },
+    {
+      "id": "R030",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R030",
+      "group_name": "ASPARAGUS",
+      "display_name": "ASPARAGUS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "951412",
+        "1130716",
+        "857276",
+        "1133629",
+        "908217",
+        "932072"
+      ],
+      "stable_key": "7c18d27c26a485db69ec3f7fadb771ceb68c52bcf2129b0e37538ff929fbc62f"
+    },
+    {
+      "id": "R031",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R031",
+      "group_name": "CANNED MILK",
+      "display_name": "CANNED MILK",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1109352",
+        "998373",
+        "969977",
+        "1028296",
+        "1063140",
+        "832249"
+      ],
+      "stable_key": "5014d891f3d301b1d0d0fa8af4be1c735c430c8ba433c47dcd6638a9a6fa31ac"
+    },
+    {
+      "id": "R032",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R032",
+      "group_name": "CORN DOGS",
+      "display_name": "CORN DOGS",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "964968",
+        "922636",
+        "970605",
+        "952806",
+        "894124",
+        "9523059"
+      ],
+      "stable_key": "e37819dc8553830e71021f707bbaac35805398e3862c9d9508838f3329c3bbc0"
+    },
+    {
+      "id": "R033",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R033",
+      "group_name": "SKILLET DINNERS",
+      "display_name": "SKILLET DINNERS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "993685",
+        "1139525",
+        "846764",
+        "1121367",
+        "1040842",
+        "990004"
+      ],
+      "stable_key": "a527d0ae9daf3ccbf08de384f953a6a870138896a045ff6dbe07f2b29c7d677e"
+    },
+    {
+      "id": "R034",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R034",
+      "group_name": "CLEANSING WIPES",
+      "display_name": "CLEANSING WIPES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1034773",
+        "961024",
+        "12525019",
+        "12554515",
+        "13115880",
+        "916366"
+      ],
+      "stable_key": "45c443d53e5716389294f340002622678dda4719935918ec7d18a18af5efd045"
+    },
+    {
+      "id": "R035",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R035",
+      "group_name": "EGGS - LARGE",
+      "display_name": "EGGS - LARGE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "840361",
+        "923746",
+        "861272",
+        "833724",
+        "6391381",
+        "997309"
+      ],
+      "stable_key": "5091581e7787b90e9f59137000ff7475589980f167a6fed383b2bce0cd81d764"
+    },
+    {
+      "id": "R036",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R036",
+      "group_name": "LIMES",
+      "display_name": "LIMES",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "908846",
+        "887219",
+        "2675930",
+        "350312",
+        "1205332",
+        "1552435"
+      ],
+      "stable_key": "f327f52ff63ddbeb04551217f746a540392de56cd28f60044d6e90886a2ed215"
+    },
+    {
+      "id": "R037",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R037",
+      "group_name": "FRZN SS PREMIUM ENTREES/DNRS/N",
+      "display_name": "FRZN SS PREMIUM ENTREES/DNRS/N",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1135460",
+        "990688",
+        "1109374",
+        "12782182",
+        "915617",
+        "897953"
+      ],
+      "stable_key": "ec44d752895ba019b18e13d7a76d94fbef0db6d57beb63db0300b680c049a097"
+    },
+    {
+      "id": "R038",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R038",
+      "group_name": "STUFFING MIXES",
+      "display_name": "STUFFING MIXES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "827180",
+        "914186",
+        "1087386",
+        "858918",
+        "888404",
+        "1050686"
+      ],
+      "stable_key": "c8877c647ff68c4539aef16f51f14a771507b05a30e5cb08f6b143925e6b7e72"
+    },
+    {
+      "id": "R039",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R039",
+      "group_name": "TOILET TISSUE",
+      "display_name": "TOILET TISSUE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1065593",
+        "6442594",
+        "1075214",
+        "9420312",
+        "1070272",
+        "10149640"
+      ],
+      "stable_key": "c8533823cb0a7778c73759752305ae4172422497f9e9465f3bfdb7988d530425"
+    },
+    {
+      "id": "R040",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R040",
+      "group_name": "PREMIUM",
+      "display_name": "PREMIUM",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1042907",
+        "865528",
+        "1123842",
+        "936355",
+        "7168026",
+        "7166861"
+      ],
+      "stable_key": "7f700f118f6f89e45b27f92be3a2c4f9017cb7471967be12e3241e48a1b79e01"
+    },
+    {
+      "id": "R041",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R041",
+      "group_name": "REFRIGERATED COOKIES-BREAK N B",
+      "display_name": "REFRIGERATED COOKIES-BREAK N B",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "898342",
+        "1057365",
+        "10457504",
+        "7167963",
+        "892048",
+        "960110"
+      ],
+      "stable_key": "dc554301b4641b89f9abb5a7837e0f80e44e58a2d76d79606949d1a58106f07c"
+    },
+    {
+      "id": "R042",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R042",
+      "group_name": "BUTTERMILK",
+      "display_name": "BUTTERMILK",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "910439",
+        "1010164",
+        "1092446",
+        "992946",
+        "917485",
+        "857016"
+      ],
+      "stable_key": "b70275d82d08e2caf6a6ae8911a8aaa396df4206f5b4e040f81c0671b2c936cf"
+    },
+    {
+      "id": "R043",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R043",
+      "group_name": "MIXED VEGETABLES",
+      "display_name": "MIXED VEGETABLES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1082735",
+        "976621",
+        "1084138",
+        "5979322",
+        "5568322",
+        "965557"
+      ],
+      "stable_key": "70e13ef4781af25fbdabe1d9e92e2ace148ff6acf843dbcbba1ac9e679c1d703"
+    },
+    {
+      "id": "R044",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R044",
+      "group_name": "ECONOMY",
+      "display_name": "ECONOMY",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "999270",
+        "937292",
+        "896862",
+        "8065410",
+        "930666",
+        "820122"
+      ],
+      "stable_key": "89aa3d75dad2cae0e4c1b749b3c0f56f06b32bfef0d634e0f25f7e35176066cc"
+    },
+    {
+      "id": "R045",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R045",
+      "group_name": "CEREAL BARS",
+      "display_name": "CEREAL BARS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "909249",
+        "1063577",
+        "1060363",
+        "835285",
+        "1087605",
+        "10344718"
+      ],
+      "stable_key": "6e773a850e2aa01770ef5770f47358f9b1202a3e8920bf067e034412dd877832"
+    },
+    {
+      "id": "R046",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R046",
+      "group_name": "MANGO",
+      "display_name": "MANGO",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "962274",
+        "1111047",
+        "897760",
+        "2562350",
+        "1756426",
+        "2037436"
+      ],
+      "stable_key": "dfcfcd87168af337868722fb401a9711c23951ebe1c0784154a4aa2dd7747e4f"
+    },
+    {
+      "id": "R047",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R047",
+      "group_name": "AVOCADO",
+      "display_name": "AVOCADO",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1028816",
+        "1061155",
+        "988900",
+        "2315377",
+        "197321",
+        "1360035"
+      ],
+      "stable_key": "cc253b2510061e847375bb910cd5e198d2641e13256d1bcc34ddb13e6674c1a5"
+    },
+    {
+      "id": "R048",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R048",
+      "group_name": "ROLLS: DINNER",
+      "display_name": "ROLLS: DINNER",
+      "department": "PASTRY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1077143",
+        "904236",
+        "1096280",
+        "1033690",
+        "898719",
+        "997487"
+      ],
+      "stable_key": "681c5582148b4c177db2d7d4e737e654164b47bff57d665c6576feee2698c05b"
+    },
+    {
+      "id": "R049",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R049",
+      "group_name": "DAIRY CASE 100% PURE JUICE OTH",
+      "display_name": "DAIRY CASE 100% PURE JUICE OTH",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1082310",
+        "919589",
+        "1034956",
+        "1053530",
+        "892376",
+        "960999"
+      ],
+      "stable_key": "9b4dca0e234486c6cf541d0b81e1182dd2accec8feb12fe5878a09de8f0d1417"
+    },
+    {
+      "id": "R050",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R050",
+      "group_name": "CIGARETTES",
+      "display_name": "CIGARETTES",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1075368",
+        "1037840",
+        "1102416",
+        "1082990",
+        "1015539",
+        "918046"
+      ],
+      "stable_key": "ef33e7aad3a86dede65bdf5203ebce1bd00b8a0f6e1c6e2dd024105431c14df6"
+    },
+    {
+      "id": "R051",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R051",
+      "group_name": "APPLES BRAEBURN (BULK&BAG)",
+      "display_name": "APPLES BRAEBURN (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1070538",
+        "12810292",
+        "779452",
+        "1382564",
+        "1847410",
+        "193932"
+      ],
+      "stable_key": "9bfdf877405267456132bc65229f64e5e6df47c0792a596a147f93aa54d40e0b"
+    },
+    {
+      "id": "R052",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R052",
+      "group_name": "PEANUTS ALL",
+      "display_name": "PEANUTS ALL",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "929726",
+        "1075827",
+        "6979315",
+        "13940909",
+        "15452874",
+        "983618"
+      ],
+      "stable_key": "f8d6645fd7039171394c380c21714d462a8b1eb1642cb93db87cf445997aa107"
+    },
+    {
+      "id": "R053",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R053",
+      "group_name": "FRUIT COCKTAIL FRUIT SALAD",
+      "display_name": "FRUIT COCKTAIL FRUIT SALAD",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "849701",
+        "1027284",
+        "1036743",
+        "908273",
+        "996016",
+        "977033"
+      ],
+      "stable_key": "54b391d795c1b0835da5d2b0ddce93c72f448e0f190810515e89c9e33f8381b8"
+    },
+    {
+      "id": "R054",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R054",
+      "group_name": "OLIVE OIL",
+      "display_name": "OLIVE OIL",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1115358",
+        "993698",
+        "9859217",
+        "992759",
+        "938725",
+        "9858622"
+      ],
+      "stable_key": "46b0d09ec9b3ff01f75663980a26b6a71c3669e3b3e269fb608fe212200a3be2"
+    },
+    {
+      "id": "R055",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R055",
+      "group_name": "SNACK CAKE - MULTI PACK",
+      "display_name": "SNACK CAKE - MULTI PACK",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "856772",
+        "952317",
+        "1134522",
+        "928049",
+        "982493",
+        "858302"
+      ],
+      "stable_key": "435ec1e9f77eca77c1efa68f618e7c7cda90aef6edccf27e13f685e6b70df5ef"
+    },
+    {
+      "id": "R056",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R056",
+      "group_name": "CHICKEN BREAST BONE IN",
+      "display_name": "CHICKEN BREAST BONE IN",
+      "department": "MEAT",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "985999",
+        "866878",
+        "1135258",
+        "12731436",
+        "970747",
+        "1075998"
+      ],
+      "stable_key": "4fe81db0f1983a093b3df3cd7788363051a5683326cc87866904bbbe44583b92"
+    },
+    {
+      "id": "R057",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R057",
+      "group_name": "NATURAL BEEF",
+      "display_name": "NATURAL BEEF",
+      "department": "MEAT",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1070702",
+        "968072",
+        "853887",
+        "1130882",
+        "937425",
+        "1137850"
+      ],
+      "stable_key": "aa850a94147b80fbc64f955f9dab892115694761f69aa0b12dd77c3db5247b13"
+    },
+    {
+      "id": "R058",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R058",
+      "group_name": "COLESLAW",
+      "display_name": "COLESLAW",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1052912",
+        "6632986",
+        "6904878",
+        "1397085",
+        "1695974",
+        "1751157"
+      ],
+      "stable_key": "86efdd4a4aa94270441eb48ceb3a71dd82d48d15dd4fa73101ecbd939a3373fa"
+    },
+    {
+      "id": "R059",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R059",
+      "group_name": "PINEAPPLE WHOLE&PEEL/CORED",
+      "display_name": "PINEAPPLE WHOLE&PEEL/CORED",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "6548453",
+        "9242918",
+        "834303",
+        "13775195",
+        "943263",
+        "2266132"
+      ],
+      "stable_key": "82668150a174864fcb3c6f4765b631bdb24f592616b14e3ad95822afec831210"
+    },
+    {
+      "id": "R060",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R060",
+      "group_name": "POTATOES WHITE",
+      "display_name": "POTATOES WHITE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "855310",
+        "896617",
+        "1024581",
+        "916970",
+        "967560",
+        "1924087"
+      ],
+      "stable_key": "49c6991d8bdce9d86b52a77f9d96f5ae199fb35d074887c574a35196cfe9be0c"
+    },
+    {
+      "id": "R061",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R061",
+      "group_name": "MEAT: TURKEY BULK",
+      "display_name": "MEAT: TURKEY BULK",
+      "department": "DELI",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "13189726",
+        "845307",
+        "1138443",
+        "1087102",
+        "935317",
+        "953561"
+      ],
+      "stable_key": "4af1ed5fcb8f93e085ee3d042a2a307126ba9c1001c27fd06ba17d60ff883269"
+    },
+    {
+      "id": "R062",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R062",
+      "group_name": "SPAGHETTI DRY",
+      "display_name": "SPAGHETTI DRY",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "866140",
+        "873178",
+        "952981",
+        "1091499",
+        "1135995",
+        "874058"
+      ],
+      "stable_key": "ce737bf59acbb6e2b44aa62c382637690e1150006b46ce93f5005a03ebff58ed"
+    },
+    {
+      "id": "R063",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R063",
+      "group_name": "MISC DAIRY REFIGERATED",
+      "display_name": "MISC DAIRY REFIGERATED",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "869728",
+        "1077439",
+        "823356",
+        "1094004",
+        "859623",
+        "9837871"
+      ],
+      "stable_key": "dea7fd34c6f45b382e1c3d742bd6b698551b22bc6aba180ba45af75751893bcd"
+    },
+    {
+      "id": "R064",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R064",
+      "group_name": "DESIGNER PAPER: MEDIUM WEIGHT",
+      "display_name": "DESIGNER PAPER: MEDIUM WEIGHT",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1132231",
+        "914346",
+        "9670830",
+        "9655212",
+        "8019273",
+        "1048046"
+      ],
+      "stable_key": "5117aa4e0c60453e260a46c790227480ae6db7ef07a94e4ebed22e4d11f64b0c"
+    },
+    {
+      "id": "R065",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R065",
+      "group_name": "TV/MOVIE-MAGAZINE",
+      "display_name": "TV/MOVIE-MAGAZINE",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "12171656",
+        "892573",
+        "1043787",
+        "862010",
+        "13842214",
+        "851101"
+      ],
+      "stable_key": "70eae506ed6d70cddf6bdadbc9ec22b1bee55cf4f53c19d92f0925de4b91f2ce"
+    },
+    {
+      "id": "R066",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R066",
+      "group_name": "KIWI FRUIT",
+      "display_name": "KIWI FRUIT",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "968215",
+        "1319813",
+        "1101087",
+        "1543471",
+        "1927510",
+        "196843"
+      ],
+      "stable_key": "592dff61dee2fb53edba21b760c8d91ea26d1c0994a1f315e00e74cd42496005"
+    },
+    {
+      "id": "R067",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R067",
+      "group_name": "MAIN MEAL BREAD",
+      "display_name": "MAIN MEAL BREAD",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1107661",
+        "1023226",
+        "968759",
+        "1132198",
+        "1044130",
+        "9446216"
+      ],
+      "stable_key": "55cac903e6d99bfa38e9c5d981b160c9d005efe347fb33ecff336ec8be902abd"
+    },
+    {
+      "id": "R068",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R068",
+      "group_name": "DRY SOUP",
+      "display_name": "DRY SOUP",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1119879",
+        "999730",
+        "1130468",
+        "1028950",
+        "1054030",
+        "1003159"
+      ],
+      "stable_key": "7fee883a9a5bb608090f78589d776697f3f67dfd091b7917a0c929a0b543c747"
+    },
+    {
+      "id": "R069",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R069",
+      "group_name": "SELECT BEEF",
+      "display_name": "SELECT BEEF",
+      "department": "MEAT",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "874972",
+        "1000753",
+        "847573",
+        "938138",
+        "1004613",
+        "1107420"
+      ],
+      "stable_key": "aa98836108beecb772d1d7b3c3292b343ed6a1793113258f207f7ac70de170d3"
+    },
+    {
+      "id": "R070",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R070",
+      "group_name": "MARGARINE  STICK",
+      "display_name": "MARGARINE  STICK",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "857849",
+        "898980",
+        "823758",
+        "924610",
+        "1058930",
+        "977481"
+      ],
+      "stable_key": "dd3c3da83ca9360ebe97d0b1847f9ee8b3b7efe23a770421e7c84b0c37fa7dd2"
+    },
+    {
+      "id": "R071",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R071",
+      "group_name": "APPLE SAUCE",
+      "display_name": "APPLE SAUCE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1031833",
+        "853643",
+        "1137680",
+        "978313",
+        "868546",
+        "1121369"
+      ],
+      "stable_key": "5fa0b578c2bfc8361f31fd40d6029133295f31bce6decbcad5f3f249f80cdc03"
+    },
+    {
+      "id": "R072",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R072",
+      "group_name": "BABY DIAPERS",
+      "display_name": "BABY DIAPERS",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "7147145",
+        "1021225",
+        "7154535",
+        "5590965",
+        "1062467",
+        "7152455"
+      ],
+      "stable_key": "c01e82d7b0efdf5cf210bda1643c0288c3f9c64b51146f8dac10be29e4420eb2"
+    },
+    {
+      "id": "R073",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R073",
+      "group_name": "MISCELLANEOUS MILK",
+      "display_name": "MISCELLANEOUS MILK",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "848319",
+        "1092588",
+        "1035843",
+        "7409670",
+        "967476",
+        "894968"
+      ],
+      "stable_key": "fa05e920ad7b4ea05a519a9ed3101858c2d24149b792b0f82c0b1e1b7c3a6d34"
+    },
+    {
+      "id": "R074",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R074",
+      "group_name": "PANCAKE MIXES",
+      "display_name": "PANCAKE MIXES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "946273",
+        "949784",
+        "950439",
+        "13189919",
+        "13115913",
+        "1137505"
+      ],
+      "stable_key": "44848e3828adc32c22793028ae9fdf9f29d318195d9d969f9028e5f76dd86ffb"
+    },
+    {
+      "id": "R075",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R075",
+      "group_name": "MUSHROOMS CND & GLASS",
+      "display_name": "MUSHROOMS CND & GLASS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "893868",
+        "1012816",
+        "973868",
+        "962609",
+        "1044089",
+        "845288"
+      ],
+      "stable_key": "c1a0c402ec49eee54a522866a7156ae51bef43770f4da85bd42f1afe7b304c90"
+    },
+    {
+      "id": "R076",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R076",
+      "group_name": "BUTTER",
+      "display_name": "BUTTER",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "976199",
+        "872137",
+        "1104343",
+        "1105917",
+        "1092303",
+        "1028473"
+      ],
+      "stable_key": "421a6d93463f55786d3bb9c8b324b5d3532455d54c06919c1caf2549a7d124cd"
+    },
+    {
+      "id": "R077",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R077",
+      "group_name": "SHREDDED CHEESE",
+      "display_name": "SHREDDED CHEESE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "859075",
+        "987562",
+        "1136257",
+        "918335",
+        "1002558",
+        "987724"
+      ],
+      "stable_key": "fc9b684c6ea17b84e84b498d484ce8760ed4eb46c4cd9ba280223c89ec479446"
+    },
+    {
+      "id": "R078",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R078",
+      "group_name": "SOY/RICE MILK",
+      "display_name": "SOY/RICE MILK",
+      "department": "NUTRITION",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1028422",
+        "1116050",
+        "9653535",
+        "6391080",
+        "6773232",
+        "1097280"
+      ],
+      "stable_key": "413daf65f3c7da41e669d1d52e1aca2f341465836e8d36ee66acda64681d5af2"
+    },
+    {
+      "id": "R079",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R079",
+      "group_name": "TEA BAGS & BULK TEA",
+      "display_name": "TEA BAGS & BULK TEA",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "986021",
+        "1036419",
+        "920145",
+        "10204556",
+        "1062095",
+        "862314"
+      ],
+      "stable_key": "93e0483242810ca56dee0c5d369e2418e6a5d4993d3d4b2b243b4ddf3c8ad39e"
+    },
+    {
+      "id": "R080",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R080",
+      "group_name": "PICKLD VEG PEPPERS ETC",
+      "display_name": "PICKLD VEG PEPPERS ETC",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "820701",
+        "905817",
+        "985579",
+        "864846",
+        "871652",
+        "1008096"
+      ],
+      "stable_key": "d3c72118eb9a08b93dd6971fe5395bc80092c84528a8b52ccdf814df84d64c08"
+    },
+    {
+      "id": "R081",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R081",
+      "group_name": "SALMON",
+      "display_name": "SALMON",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "984715",
+        "911162",
+        "833583",
+        "854190",
+        "999389",
+        "849901"
+      ],
+      "stable_key": "f6297f750a6d1b3692b3b9152bdaa7b30c7289892a18eed905846711a8b14456"
+    },
+    {
+      "id": "R082",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R082",
+      "group_name": "APPLE JUICE & CIDER (OVER 50%",
+      "display_name": "APPLE JUICE & CIDER (OVER 50%",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1003188",
+        "1001827",
+        "1101980",
+        "1043663",
+        "972235",
+        "8119135"
+      ],
+      "stable_key": "c43d1a168b9a0039d806e338da5bfb01fa932f6d6e74b94779380a1a3f8be6ce"
+    },
+    {
+      "id": "R083",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R083",
+      "group_name": "SOFT DRINK BOTTLE NON-CARB (EX",
+      "display_name": "SOFT DRINK BOTTLE NON-CARB (EX",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "13842224",
+        "931532",
+        "1069175",
+        "989354",
+        "13842107",
+        "1074271"
+      ],
+      "stable_key": "dfa32663dfd0b534853a4fa7eb1446c2020dc7953df6fb9abb667d94a6ce3a47"
+    },
+    {
+      "id": "R084",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R084",
+      "group_name": "SANDWICH COOKIES",
+      "display_name": "SANDWICH COOKIES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1042438",
+        "1074754",
+        "1106428",
+        "973135",
+        "6034953",
+        "6423911"
+      ],
+      "stable_key": "954b4539b2c2c5a2afd332311bdb3e574d465885120a3b7b67e5a4b9c8b6ba8b"
+    },
+    {
+      "id": "R085",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R085",
+      "group_name": "MUSHROOMS W/WHOLE PKG",
+      "display_name": "MUSHROOMS W/WHOLE PKG",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1116821",
+        "991223",
+        "1053924",
+        "853235",
+        "6552070",
+        "2189289"
+      ],
+      "stable_key": "a38e513d0a751da7013cb757cf8366d1aad199991d3f2876e845b2cb2b41020f"
+    },
+    {
+      "id": "R086",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R086",
+      "group_name": "FREEZER BAGS",
+      "display_name": "FREEZER BAGS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "850133",
+        "904092",
+        "872762",
+        "1111722",
+        "906905",
+        "896074"
+      ],
+      "stable_key": "fefd33ecb7c506379241293f11333c848fdf4aab3f0601d72a4b3363579c99e7"
+    },
+    {
+      "id": "R087",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R087",
+      "group_name": "ECONOMY - MEAT",
+      "display_name": "ECONOMY - MEAT",
+      "department": "MEAT-PCKGD",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1062966",
+        "8205218",
+        "883963",
+        "865330",
+        "1100658",
+        "8014465"
+      ],
+      "stable_key": "746d5174313205c8428e984d51d17208b7d4df935cc7ba2b0569757f8f79a842"
+    },
+    {
+      "id": "R088",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R088",
+      "group_name": "PLASTIC CUPS",
+      "display_name": "PLASTIC CUPS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "9487606",
+        "9527323",
+        "9488055",
+        "902396",
+        "944938",
+        "1084613"
+      ],
+      "stable_key": "b6849c402070470125ce161eada0213bba5912519584a4209dda504fe5b82d4b"
+    },
+    {
+      "id": "R089",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R089",
+      "group_name": "INFANT FORMULA MILK BASE",
+      "display_name": "INFANT FORMULA MILK BASE",
+      "department": "DRUG GM",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "949023",
+        "5570590",
+        "1069506",
+        "841365",
+        "1118120",
+        "851066"
+      ],
+      "stable_key": "c1324f19e96fd6e68ab2ec212060e120c8c6d8eb78dd1424d973724073c54785"
+    },
+    {
+      "id": "R090",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R090",
+      "group_name": "VIENNA SAUSAGE",
+      "display_name": "VIENNA SAUSAGE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "908213",
+        "901403",
+        "834797",
+        "12263131",
+        "1071307",
+        "1090037"
+      ],
+      "stable_key": "4468b12f7e04eb9037584f590aa6c823b02277779d3971ef2c3c616439e400dc"
+    },
+    {
+      "id": "R091",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R091",
+      "group_name": "MUSHROOMS PORTABELLA",
+      "display_name": "MUSHROOMS PORTABELLA",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1046756",
+        "832001",
+        "835279",
+        "904148",
+        "913671",
+        "1063373"
+      ],
+      "stable_key": "f32d1ac6e16df98427f094b2166309ed08abda17092437f71b10005bf83b8d6a"
+    },
+    {
+      "id": "R092",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R092",
+      "group_name": "VEG JUICE (EXCEPT TOMATO) (OVE",
+      "display_name": "VEG JUICE (EXCEPT TOMATO) (OVE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "5573314",
+        "1083043",
+        "1023196",
+        "13008227",
+        "913449",
+        "1054654"
+      ],
+      "stable_key": "5598d72560a001711a5c2c8f724fdd61576675cecf77a2abaf8845bff59631ec"
+    },
+    {
+      "id": "R093",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R093",
+      "group_name": "CARROTS MINI PEELED",
+      "display_name": "CARROTS MINI PEELED",
+      "department": "PRODUCE",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "961554",
+        "857503",
+        "913689",
+        "937689",
+        "1178871",
+        "14025312"
+      ],
+      "stable_key": "591a7c11086b3c369c0f5764f95126c5f289907c57c4e1ce7e6cfaabef1d0d60"
+    },
+    {
+      "id": "R094",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R094",
+      "group_name": "FRZN HASHBROWN POTATOES",
+      "display_name": "FRZN HASHBROWN POTATOES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "878637",
+        "1064945",
+        "873056",
+        "846043",
+        "1054323",
+        "924978"
+      ],
+      "stable_key": "d7d0858d4c4f2c9089c3eb38bb8db02e1c02c2d4632b25c1a5671989f2754934"
+    },
+    {
+      "id": "R095",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R095",
+      "group_name": "CHIX:FRD 8PC/CUT UP (HOT)",
+      "display_name": "CHIX:FRD 8PC/CUT UP (HOT)",
+      "department": "DELI",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "993638",
+        "9835619",
+        "1048445",
+        "970152",
+        "830203",
+        "906777"
+      ],
+      "stable_key": "9e46a994f289dfc7a2826dea77d777d3c302c730f911094ec20a697ed4ec61f2"
+    },
+    {
+      "id": "R096",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R096",
+      "group_name": "PICKLES",
+      "display_name": "PICKLES",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "978906",
+        "1085778",
+        "844175",
+        "991024",
+        "1035691",
+        "879752"
+      ],
+      "stable_key": "a53684fa58c03c50e19c953cde6d25d8248033e1dc04916826b5314a32ee1e96"
+    },
+    {
+      "id": "R097",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R097",
+      "group_name": "KRAUT & CABBAGE",
+      "display_name": "KRAUT & CABBAGE",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "912146",
+        "842533",
+        "1086641",
+        "1113721",
+        "860362",
+        "977910"
+      ],
+      "stable_key": "4d0607e663a3ebdcf49be3954dc3974f708b05cae0100d856d4036750b98fa9f"
+    },
+    {
+      "id": "R098",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R098",
+      "group_name": "PUDDING&GELATIN CUPS/CANS",
+      "display_name": "PUDDING&GELATIN CUPS/CANS",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "981776",
+        "1098407",
+        "1048200",
+        "1066289",
+        "6772684",
+        "1044599"
+      ],
+      "stable_key": "6b17dc1c5425c68f006262f7a299faf87f09ed994390a2d0e86214937a10bead"
+    },
+    {
+      "id": "R099",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R099",
+      "group_name": "LEAN",
+      "display_name": "LEAN",
+      "department": "MEAT",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1044078",
+        "1106301",
+        "12301100",
+        "999779",
+        "12302069",
+        "1038663"
+      ],
+      "stable_key": "b8d46b8a10707ece7a9bf20776a3052d54e571c3c55376e571677cbe0425ef69"
+    },
+    {
+      "id": "R100",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "R100",
+      "group_name": "SUGAR",
+      "display_name": "SUGAR",
+      "department": "GROCERY",
+      "cohort": "REPRESENTATIVE",
+      "candidate_products": [
+        "1068719",
+        "5592931",
+        "925862",
+        "1078346",
+        "1059902",
+        "873654"
+      ],
+      "stable_key": "8fe3ad9c138b6d095768afe19ef4f15252043fec3e5ce1b61c24ad34348a1454"
+    },
+    {
+      "id": "D001",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D001",
+      "group_name": "GRANOLA BARS",
+      "display_name": "GRANOLA BARS",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1057011",
+        "856335",
+        "1071759",
+        "909750",
+        "964520",
+        "856215"
+      ],
+      "stable_key": "df31a4e0dfaaef5ec597e88fefb624db37e81f8be2e8ca66b5921efda197b85a"
+    },
+    {
+      "id": "D002",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D002",
+      "group_name": "FRESH",
+      "display_name": "FRESH",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "981086",
+        "945244",
+        "1118046",
+        "1046827",
+        "1110057",
+        "849018"
+      ],
+      "stable_key": "b83e034b7a969399659f9065e5a3b37feffa3f3ce2aad4e96b460cfc0b1b46fa"
+    },
+    {
+      "id": "D003",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D003",
+      "group_name": "RAISINS",
+      "display_name": "RAISINS",
+      "department": "NUTRITION",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1127328",
+        "938187",
+        "858439",
+        "1033973",
+        "9856740",
+        "1006063"
+      ],
+      "stable_key": "78e8d7984628ca913825ec6e7190d10fc4b63af4d4a4414e74604850b270f646"
+    },
+    {
+      "id": "D004",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D004",
+      "group_name": "FRZN BRD STICK/PORTON",
+      "display_name": "FRZN BRD STICK/PORTON",
+      "department": "SEAFOOD-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "936229",
+        "823641",
+        "1121321",
+        "1108296",
+        "1093697",
+        "987311"
+      ],
+      "stable_key": "58dd417b687e13eaa7ae8e91f8ed85ea25302b390833f419c8829f2604ba6ed1"
+    },
+    {
+      "id": "D005",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D005",
+      "group_name": "ONIONS YELLOW (BULK&BAG)",
+      "display_name": "ONIONS YELLOW (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "845208",
+        "1102453",
+        "1044676",
+        "891452",
+        "952337",
+        "1243632"
+      ],
+      "stable_key": "b8037c3f099a239063ea37634961ae045f884b5a856349692f8eabed3797f6ef"
+    },
+    {
+      "id": "D006",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D006",
+      "group_name": "SEAFOOD-FRE-SALMON",
+      "display_name": "SEAFOOD-FRE-SALMON",
+      "department": "SEAFOOD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "8203720",
+        "14106445",
+        "8292952",
+        "10204144",
+        "1121327",
+        "12301654"
+      ],
+      "stable_key": "9cd14b1f69ab04c8e7e12bb41947c66bbabeae0cb000581c6db068551cf69cd8"
+    },
+    {
+      "id": "D007",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D007",
+      "group_name": "MEAT:HAM BULK",
+      "display_name": "MEAT:HAM BULK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1018740",
+        "883003",
+        "1043751",
+        "921504",
+        "1028995",
+        "827656"
+      ],
+      "stable_key": "8357243fcfe977ffd00fcebff7115b3116ba6bcd915b6e5eb176ffda50cfc40a"
+    },
+    {
+      "id": "D008",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D008",
+      "group_name": "SALAD BAR FRESH FRUIT",
+      "display_name": "SALAD BAR FRESH FRUIT",
+      "department": "SALAD BAR",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1005186",
+        "1110843",
+        "1091365",
+        "1007136",
+        "1117393",
+        "926422"
+      ],
+      "stable_key": "74d02493468c0a15de30ff48e16129a567d3edc6638a7f53a93a6a42ff55ae58"
+    },
+    {
+      "id": "D009",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D009",
+      "group_name": "BREAD:TORTILLAS/PITA",
+      "display_name": "BREAD:TORTILLAS/PITA",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1092354",
+        "834932",
+        "5572234",
+        "896106",
+        "863942",
+        "988313"
+      ],
+      "stable_key": "db22e5b1155fd514c31df6fc4a5a5ec1a2ef0669b4288db13c05514694cbe8cf"
+    },
+    {
+      "id": "D010",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D010",
+      "group_name": "MISC SALES TRANS",
+      "display_name": "MISC SALES TRANS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1076056",
+        "1107839",
+        "997080",
+        "9881414",
+        "1913500",
+        "912178"
+      ],
+      "stable_key": "7bb1f9ea3eee10e12f883f757ad38c4794bdabbf9dc43e52e64ddaf13eeefb44"
+    },
+    {
+      "id": "D011",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D011",
+      "group_name": "TICKETS",
+      "display_name": "TICKETS",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "948670",
+        "1134729",
+        "1032427",
+        "1045887",
+        "862237",
+        "952723"
+      ],
+      "stable_key": "f73f6a3d2ff0c72c3098adb51747c2e36de318cda53f7d6ee7ecc41b68274881"
+    },
+    {
+      "id": "D012",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D012",
+      "group_name": "TRAY PACK/CHOC CHIP COOKIES",
+      "display_name": "TRAY PACK/CHOC CHIP COOKIES",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "942525",
+        "1085983",
+        "866778",
+        "10344586",
+        "1081355",
+        "871279"
+      ],
+      "stable_key": "e16fcb8ed271de35c30fd2165c7d0fac283851c5bfb3ed2f59c183ef0cc13d7c"
+    },
+    {
+      "id": "D013",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D013",
+      "group_name": "LOAVE",
+      "display_name": "LOAVE",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "969419",
+        "1002459",
+        "1086740",
+        "1115971",
+        "852998",
+        "829955"
+      ],
+      "stable_key": "c092330162744a247987dd2dc71e35319c978ce55adb7426e31fc150e7e2b1ef"
+    },
+    {
+      "id": "D014",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D014",
+      "group_name": "DRIED FRUIT - OTHER",
+      "display_name": "DRIED FRUIT - OTHER",
+      "department": "NUTRITION",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1093571",
+        "837864",
+        "904241",
+        "6772782",
+        "885592",
+        "12754165"
+      ],
+      "stable_key": "684127588b194d53fe7a00aceea6d5253dca4691782a47eaa30831f1bcd620e7"
+    },
+    {
+      "id": "D015",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D015",
+      "group_name": "SEAFOOD-FRZ-IQF RAW SHRIMP RW",
+      "display_name": "SEAFOOD-FRZ-IQF RAW SHRIMP RW",
+      "department": "SEAFOOD-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "904997",
+        "973916",
+        "1100927",
+        "1064816",
+        "1099510",
+        "12517450"
+      ],
+      "stable_key": "b0594a7f0881d26e45c5172816674ec6ddad9b2c4c0f1e8263203e924b5e5b59"
+    },
+    {
+      "id": "D016",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D016",
+      "group_name": "HERBS PARSLEY",
+      "display_name": "HERBS PARSLEY",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1101956",
+        "861792",
+        "884392",
+        "921282",
+        "1125737",
+        "1305400"
+      ],
+      "stable_key": "4e2ab8e6518a0bb12a90b99e19097058661566764128a88dd5290d8ad6193faf"
+    },
+    {
+      "id": "D017",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D017",
+      "group_name": "SEAFOOD-FRE-RAW FINFISH-OTHER",
+      "display_name": "SEAFOOD-FRE-RAW FINFISH-OTHER",
+      "department": "SEAFOOD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "8203834",
+        "8203851",
+        "8203351",
+        "8203606",
+        "8203601",
+        "8204101"
+      ],
+      "stable_key": "c4e7ef9e2f2e0036b7afb3bc84f4b5c5ee1ae0f664302b7bcb9b68aebd0d83af"
+    },
+    {
+      "id": "D018",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D018",
+      "group_name": "CHEESE: NATURAL BULK",
+      "display_name": "CHEESE: NATURAL BULK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "971922",
+        "1132771",
+        "1137775",
+        "914577",
+        "959316",
+        "1124971"
+      ],
+      "stable_key": "8e0a94da19d974f6613a1b77f793b0e09a907ea79aa1f506a0ec2821cd39a5d4"
+    },
+    {
+      "id": "D019",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D019",
+      "group_name": "SOUPS",
+      "display_name": "SOUPS",
+      "department": "SALAD BAR",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1063207",
+        "873550",
+        "914107",
+        "993327",
+        "903159",
+        "1103162"
+      ],
+      "stable_key": "48be091d71b5049fffc41a243d8594ea98f79c3aacd9e59c0247fc861a6d80f9"
+    },
+    {
+      "id": "D020",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D020",
+      "group_name": "COOKIES: REGULAR",
+      "display_name": "COOKIES: REGULAR",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1014948",
+        "1090793",
+        "1053282",
+        "1132911",
+        "948384",
+        "827999"
+      ],
+      "stable_key": "7a3bd11de8e7bac74edcfb42c2569ef371ed6bd57b97cc668f37119df34af7d3"
+    },
+    {
+      "id": "D021",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D021",
+      "group_name": "PATTIES",
+      "display_name": "PATTIES",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "12301405",
+        "12384775",
+        "12349795",
+        "1124432",
+        "12754036",
+        "12301338"
+      ],
+      "stable_key": "7df1d2bf68b934a59481fd68c2d28d0c0f03aca40e109d36264c06bbed8000fa"
+    },
+    {
+      "id": "D022",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D022",
+      "group_name": "PREPAID WIRELESS CARDS",
+      "display_name": "PREPAID WIRELESS CARDS",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1013928",
+        "863762",
+        "6904858",
+        "5590765",
+        "6772985",
+        "6773053"
+      ],
+      "stable_key": "b9ed882001ee6aa0e6891f9df36dbe0828d7c5622eab8549d925c75c902545a9"
+    },
+    {
+      "id": "D023",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D023",
+      "group_name": "INSTANT OATMEAL",
+      "display_name": "INSTANT OATMEAL",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1138487",
+        "979566",
+        "1054424",
+        "935968",
+        "6979803",
+        "1059236"
+      ],
+      "stable_key": "a7daf1b2d335aa695f912a9f5778b151ce0ae40a5a5b0442336fcab3782aeffc"
+    },
+    {
+      "id": "D024",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D024",
+      "group_name": "PRE-COOKED",
+      "display_name": "PRE-COOKED",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "929018",
+        "908283",
+        "1131115",
+        "5566309",
+        "9420021",
+        "1817725"
+      ],
+      "stable_key": "6131570838e6985aebbcaf778e14d7517baa50785d45b784610b9161d77bd3f6"
+    },
+    {
+      "id": "D025",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D025",
+      "group_name": "APPLES GRANNY SMITH (BULK&BAG)",
+      "display_name": "APPLES GRANNY SMITH (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "909714",
+        "865174",
+        "101364",
+        "1118624",
+        "2106868",
+        "356517"
+      ],
+      "stable_key": "f0b29a4b724ed65354f3fc8d31f4bc48b8da49b28bd339788f53e90067319bb4"
+    },
+    {
+      "id": "D026",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D026",
+      "group_name": "SEAFOOD-FRE-CATFISH",
+      "display_name": "SEAFOOD-FRE-CATFISH",
+      "department": "SEAFOOD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "8203599",
+        "8203710",
+        "8203494",
+        "8203848",
+        "8203495",
+        "1071017"
+      ],
+      "stable_key": "6b541c22ba216fb739dd7b1e78aca3ae3b7c752835000b6fb6ba8881bac9e95b"
+    },
+    {
+      "id": "D027",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D027",
+      "group_name": "CHIX: VALUE ADDED (HOT)",
+      "display_name": "CHIX: VALUE ADDED (HOT)",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "861445",
+        "1094098",
+        "925449",
+        "1070492",
+        "6534521",
+        "897774"
+      ],
+      "stable_key": "724084a999ba31475418311c52ee38a6736b9994541326da93b5042e7159c8e6"
+    },
+    {
+      "id": "D028",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D028",
+      "group_name": "ROLLS: CROISSANTS/BREADSTICKS",
+      "display_name": "ROLLS: CROISSANTS/BREADSTICKS",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1042616",
+        "863632",
+        "9553023",
+        "9526118",
+        "1074142",
+        "1109869"
+      ],
+      "stable_key": "bd107b0bf5490b3e6cab1902ab726aaa70decd8f2d5394c76cb52131d659babe"
+    },
+    {
+      "id": "D029",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D029",
+      "group_name": "RIBS",
+      "display_name": "RIBS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "8357613",
+        "13003092",
+        "1119860",
+        "12810464",
+        "1059473",
+        "12810389"
+      ],
+      "stable_key": "6c2a797285bb6161bbf4b48a453f0e2532c0151047349833001899f8a6d3b889"
+    },
+    {
+      "id": "D030",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D030",
+      "group_name": "WOMEN S GENERAL-MAGAZINE",
+      "display_name": "WOMEN S GENERAL-MAGAZINE",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1105467",
+        "13842088",
+        "1106505",
+        "9487306",
+        "1026755",
+        "12384270"
+      ],
+      "stable_key": "a225597204ef1a4b5f5b021d20d2913fffd1486a275a0085872899d2b75e812e"
+    },
+    {
+      "id": "D031",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D031",
+      "group_name": "FRZN BAGGED VEGETABLES - PLAIN",
+      "display_name": "FRZN BAGGED VEGETABLES - PLAIN",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1096343",
+        "1105623",
+        "1013770",
+        "902167",
+        "977545",
+        "905868"
+      ],
+      "stable_key": "456f15ae0fe19f379805a1020bb228ace0402018ea6ff00f8ea58b455b30a7d3"
+    },
+    {
+      "id": "D032",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D032",
+      "group_name": "SMOKED/COOKED",
+      "display_name": "SMOKED/COOKED",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "905539",
+        "949965",
+        "846823",
+        "1131344",
+        "837304",
+        "1095700"
+      ],
+      "stable_key": "472e0bdb38b8e535f5d5cbe88c1d39372764da3809f3d381726fbc5af6256335"
+    },
+    {
+      "id": "D033",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D033",
+      "group_name": "CABBAGE",
+      "display_name": "CABBAGE",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1037863",
+        "865357",
+        "902292",
+        "1053403",
+        "1324072",
+        "55375"
+      ],
+      "stable_key": "cb73ea72a029ca40db3ea2dc260df8921dbb4e9d816be49e05a4198076e44850"
+    },
+    {
+      "id": "D034",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D034",
+      "group_name": "VEGETABLE SALADS - BULK",
+      "display_name": "VEGETABLE SALADS - BULK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "6514085",
+        "906611",
+        "1136102",
+        "1076954",
+        "6513891",
+        "917760"
+      ],
+      "stable_key": "41e88a9441a8af09d60d75cc1acb3f591196a27a2135c91baf35cb4685ec9375"
+    },
+    {
+      "id": "D035",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D035",
+      "group_name": "BREAD:ITALIAN/FRENCH",
+      "display_name": "BREAD:ITALIAN/FRENCH",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "5568228",
+        "1009449",
+        "826144",
+        "904422",
+        "853354",
+        "1017472"
+      ],
+      "stable_key": "f4f6fdbdfd1ab22d45dca53688b0f24304ba59187bd352592664c9513f7396d6"
+    },
+    {
+      "id": "D036",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D036",
+      "group_name": "SOUP/STEW",
+      "display_name": "SOUP/STEW",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "880150",
+        "5580166",
+        "887325",
+        "869077",
+        "994263",
+        "13006916"
+      ],
+      "stable_key": "989c4700b1ec87c297c879278294cd7b35edce2b80b154bd726655eea5d432e9"
+    },
+    {
+      "id": "D037",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D037",
+      "group_name": "BABY WIPES",
+      "display_name": "BABY WIPES",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "7410335",
+        "7409951",
+        "7410336",
+        "10356441",
+        "1118648",
+        "7410201"
+      ],
+      "stable_key": "b81ad363b4edd3902a2e8c052ef63a515f8ba5e1b8e5dfd6e7f4845d379f65af"
+    },
+    {
+      "id": "D038",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D038",
+      "group_name": "MEXICAN SAUCESSALSAPICANTEE",
+      "display_name": "MEXICAN SAUCESSALSAPICANTEE",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "907652",
+        "850562",
+        "1036289",
+        "1104584",
+        "1012941",
+        "1051810"
+      ],
+      "stable_key": "99073119239e58fde81e4fb8aae4e1ca8b16f8ad5d732b0fe958a87eb51083fd"
+    },
+    {
+      "id": "D039",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D039",
+      "group_name": "BREAST - BONELESS(IQF)",
+      "display_name": "BREAST - BONELESS(IQF)",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "839419",
+        "854405",
+        "1099089",
+        "871061",
+        "899019",
+        "9546982"
+      ],
+      "stable_key": "62d706166ee95c98c36bed9ed6a19b30eca777fb5af84276cebd0af63a6fe1cb"
+    },
+    {
+      "id": "D040",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D040",
+      "group_name": "ORGANIC SALAD MIX",
+      "display_name": "ORGANIC SALAD MIX",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1119405",
+        "1080853",
+        "1060705",
+        "9547021",
+        "9416653",
+        "849205"
+      ],
+      "stable_key": "d6cee9f9665f1dc6b38ed55f4f6a434efd511d2462f9dfa21790a9278c5382aa"
+    },
+    {
+      "id": "D041",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D041",
+      "group_name": "MEAT: BEEF BULK",
+      "display_name": "MEAT: BEEF BULK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "885863",
+        "13876914",
+        "879876",
+        "1056492",
+        "978294",
+        "1101437"
+      ],
+      "stable_key": "82b1330e851955b3ed3f6c89ea8d57fe155dca01e52e75fca521a2e910c9fb7f"
+    },
+    {
+      "id": "D042",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D042",
+      "group_name": "SW GDS:COFFEE CAKES",
+      "display_name": "SW GDS:COFFEE CAKES",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "6424472",
+        "6424471",
+        "1026550",
+        "1129982",
+        "6424465",
+        "933599"
+      ],
+      "stable_key": "43f6a6de533bf144c749f412b8bc83963544064f9e37e6d2610fd10b5a29b884"
+    },
+    {
+      "id": "D043",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D043",
+      "group_name": "CHICKEN WINGS",
+      "display_name": "CHICKEN WINGS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "969866",
+        "972143",
+        "956486",
+        "12731466",
+        "956100",
+        "1056887"
+      ],
+      "stable_key": "be50b759535bf61b4553386f7ab65548b1ad38f60dcae2fab48dae5c0e453ab4"
+    },
+    {
+      "id": "D044",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D044",
+      "group_name": "COFFEE FILTERS",
+      "display_name": "COFFEE FILTERS",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "931860",
+        "1005902",
+        "969494",
+        "1045069",
+        "847753",
+        "9245479"
+      ],
+      "stable_key": "932057edb28772c77cd8f301e8cd9859bb5e619a52280884b25b1a5d531741d3"
+    },
+    {
+      "id": "D045",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D045",
+      "group_name": "NON DAIRY CREAMER: DRY",
+      "display_name": "NON DAIRY CREAMER: DRY",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "940731",
+        "1068669",
+        "888650",
+        "900311",
+        "888543",
+        "1116376"
+      ],
+      "stable_key": "c70dc27e11addc1750746a516c85e743560296efa54c3f0697c3340ee1ac8300"
+    },
+    {
+      "id": "D046",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D046",
+      "group_name": "ROLLS - PORK",
+      "display_name": "ROLLS - PORK",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "823704",
+        "1130858",
+        "819255",
+        "8291322",
+        "1120928",
+        "978077"
+      ],
+      "stable_key": "faba1b21ded7ef26b6dd7881e5223d2b1542accc3890ad5142b88834e186118c"
+    },
+    {
+      "id": "D047",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D047",
+      "group_name": "MELON HALVES/QUARTERS",
+      "display_name": "MELON HALVES/QUARTERS",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1102949",
+        "891141",
+        "1033214",
+        "7432861",
+        "903463",
+        "873474"
+      ],
+      "stable_key": "a86271551d120164be659fb80a67ffca5649d1173dbcee2aa8d9dc12e2d75edc"
+    },
+    {
+      "id": "D048",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D048",
+      "group_name": "MEAT: SAUS DRY BULK",
+      "display_name": "MEAT: SAUS DRY BULK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "933835",
+        "837969",
+        "856914",
+        "1117690",
+        "1045009",
+        "1078856"
+      ],
+      "stable_key": "5634c121a7b5683593d6dd7271aaa68f390572111e7ab7d7e98c3b47175a8dea"
+    },
+    {
+      "id": "D049",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D049",
+      "group_name": "PIES: FRUIT/NUT",
+      "display_name": "PIES: FRUIT/NUT",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "8011291",
+        "1025911",
+        "5592694",
+        "5584646",
+        "6424460",
+        "6424464"
+      ],
+      "stable_key": "5d17d95431247489c91bdaf94931fa906b0b7d4043b7fc4a0520628787e963c0"
+    },
+    {
+      "id": "D050",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D050",
+      "group_name": "CHICKEN DRUMS",
+      "display_name": "CHICKEN DRUMS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "934639",
+        "939636",
+        "1068292",
+        "1086483",
+        "12731299",
+        "1857013"
+      ],
+      "stable_key": "83eea36469a603ac386f9e36ce3ece7ae2a75763bf3f88b3d407e28ccfd367c7"
+    },
+    {
+      "id": "D051",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D051",
+      "group_name": "SOCIAL&LIFESTYLE-MAGAZINE",
+      "display_name": "SOCIAL&LIFESTYLE-MAGAZINE",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "9189814",
+        "964594",
+        "955858",
+        "1108776",
+        "918443",
+        "971190"
+      ],
+      "stable_key": "cea00d339e7e393d88f7eca3d12dfdc70d1ad2328a65ef904cec5c8d90594ad3"
+    },
+    {
+      "id": "D052",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D052",
+      "group_name": "MOLASSES & SYRUPS",
+      "display_name": "MOLASSES & SYRUPS",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "946977",
+        "1068343",
+        "1136524",
+        "1127338",
+        "953675",
+        "890344"
+      ],
+      "stable_key": "8ba24c979be1a452b0fa0d7dee26bd890e205add66eeda4c42128153603e955d"
+    },
+    {
+      "id": "D053",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D053",
+      "group_name": "BOLOGNA",
+      "display_name": "BOLOGNA",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1001148",
+        "1092937",
+        "959409",
+        "982790",
+        "1107289",
+        "874255"
+      ],
+      "stable_key": "91f4ab5c0a5876f44a1246baf3044eccc679bedd68bfef3ad525441ad16da84e"
+    },
+    {
+      "id": "D054",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D054",
+      "group_name": "APPLES FUJI (BULK&BAG)",
+      "display_name": "APPLES FUJI (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1055504",
+        "9832538",
+        "824119",
+        "966014",
+        "1597772",
+        "1309185"
+      ],
+      "stable_key": "9eb1c209aa19fcf9d55d5e1483f87e8d502b52ee4aca3acca00ecaea80c4d631"
+    },
+    {
+      "id": "D055",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D055",
+      "group_name": "PASTA/GRAIN SALADS - PREPACK",
+      "display_name": "PASTA/GRAIN SALADS - PREPACK",
+      "department": "DELI",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1093030",
+        "7025202",
+        "1252245",
+        "972593",
+        "2078649",
+        "6983196"
+      ],
+      "stable_key": "dd5b8fb49aba96b91fb888e178417524f8b570e6d185a3e3e68ef8ad7d3fbdb0"
+    },
+    {
+      "id": "D056",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D056",
+      "group_name": "CAKES: ANGEL FDS/CKE ROLLS",
+      "display_name": "CAKES: ANGEL FDS/CKE ROLLS",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1014509",
+        "894360",
+        "1049133",
+        "1128363",
+        "880007",
+        "1092366"
+      ],
+      "stable_key": "edaafe7624baa98c656b8eb3f4d51b1fc2f444eaf4054ebc2270227007e53a9e"
+    },
+    {
+      "id": "D057",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D057",
+      "group_name": "HAM- NET WEIGHT",
+      "display_name": "HAM- NET WEIGHT",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "13512060",
+        "1139493",
+        "966348",
+        "1036661",
+        "13512828",
+        "13653499"
+      ],
+      "stable_key": "d1b375f63a2f6229123c778933790cc5c82879e9220255ee00e310fc349bfd6e"
+    },
+    {
+      "id": "D058",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D058",
+      "group_name": "CANDY BARS MULTI PACK W/FLOUR",
+      "display_name": "CANDY BARS MULTI PACK W/FLOUR",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "9337369",
+        "1050721",
+        "6513983",
+        "12263865",
+        "1134620",
+        "12648958"
+      ],
+      "stable_key": "a2bb16b788d72a9f86c0f98f06ce56dc8d693040eb22a3dc76d5eeef8c40c2cc"
+    },
+    {
+      "id": "D059",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D059",
+      "group_name": "BUTTER SPRAY CRACKER (RITZ/CLU",
+      "display_name": "BUTTER SPRAY CRACKER (RITZ/CLU",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "832678",
+        "1041796",
+        "1100972",
+        "1089021",
+        "858419",
+        "1016863"
+      ],
+      "stable_key": "9f3e54595328b607e504d3a49524b2523b15c755d96aed58a88fc48e2c024e70"
+    },
+    {
+      "id": "D060",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D060",
+      "group_name": "WINGS (IQF)",
+      "display_name": "WINGS (IQF)",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1025611",
+        "836445",
+        "910673",
+        "5588161",
+        "5129668",
+        "1560911"
+      ],
+      "stable_key": "f84f6c0128d383e442a1d3d1476521a9bac7d1c04b69f6d3f1848c51dfa9255b"
+    },
+    {
+      "id": "D061",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D061",
+      "group_name": "SALAD SPINACH",
+      "display_name": "SALAD SPINACH",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "995478",
+        "6034964",
+        "6633342",
+        "6034648",
+        "991575",
+        "5583212"
+      ],
+      "stable_key": "4d93d7f78b033a093c48ce6cecdea51925e1139a8f56ebd445787152ad8a28d7"
+    },
+    {
+      "id": "D062",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D062",
+      "group_name": "ROLLS: SANDWICH",
+      "display_name": "ROLLS: SANDWICH",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "821695",
+        "849809",
+        "1018600",
+        "948811",
+        "1044275",
+        "1051434"
+      ],
+      "stable_key": "7829b2a939ad35f1188543e01cb3568b5d4088e3129ab10c0fe4d77d326de243"
+    },
+    {
+      "id": "D063",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D063",
+      "group_name": "CHICKEN THIGHS",
+      "display_name": "CHICKEN THIGHS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1037337",
+        "835300",
+        "992529",
+        "12757544",
+        "829685",
+        "7407147"
+      ],
+      "stable_key": "433982e329e5b18247ed24cc6ea795410f3228e0b6f06b616bcbb63cff00ee99"
+    },
+    {
+      "id": "D064",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D064",
+      "group_name": "CANDY BAGS-NON CHOCOLATE",
+      "display_name": "CANDY BAGS-NON CHOCOLATE",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "871741",
+        "7409824",
+        "1032156",
+        "947865",
+        "1110331",
+        "7409949"
+      ],
+      "stable_key": "e7e3f2dc8593551a05f0b2e6fbdaf9cf558670b51fe44d12a58461a4b8cd8b73"
+    },
+    {
+      "id": "D065",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D065",
+      "group_name": "DIPS (NON-REFRIGERATED)",
+      "display_name": "DIPS (NON-REFRIGERATED)",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "846417",
+        "999198",
+        "1072968",
+        "931255",
+        "1055155",
+        "840609"
+      ],
+      "stable_key": "c2c0f19d565761a7a0548b9d33e707ff74b171c44a996866b61e2b0d7f30fd75"
+    },
+    {
+      "id": "D066",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D066",
+      "group_name": "SANDWICHES/BISCUITS/GRAVY",
+      "display_name": "SANDWICHES/BISCUITS/GRAVY",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1042544",
+        "1051283",
+        "948232",
+        "1097198",
+        "9828249",
+        "1239059"
+      ],
+      "stable_key": "6dc8e88858473b109280074b982ab8ee57695b62a4a6b5c71df72e691b88ffb0"
+    },
+    {
+      "id": "D067",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D067",
+      "group_name": "PROCESSED OTHER",
+      "display_name": "PROCESSED OTHER",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1068562",
+        "1017059",
+        "835783",
+        "1036093",
+        "1032961",
+        "5567637"
+      ],
+      "stable_key": "5fac8ffa24f9530284235d88186cb1bac5a5607cfdbca879057fd741d9078f32"
+    },
+    {
+      "id": "D068",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D068",
+      "group_name": "BREAD:SAVORY/SPECIALTY",
+      "display_name": "BREAD:SAVORY/SPECIALTY",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1139830",
+        "824813",
+        "1117034",
+        "984315",
+        "842630",
+        "1061614"
+      ],
+      "stable_key": "ba53c3e5948d5eaff3f57b7dcddf7dd5f33f7ad3b956583745aa985b74d153bd"
+    },
+    {
+      "id": "D069",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D069",
+      "group_name": "GROUND TURKEY",
+      "display_name": "GROUND TURKEY",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "6602697",
+        "6602729",
+        "6602199",
+        "7433222",
+        "7413221",
+        "956338"
+      ],
+      "stable_key": "598958e572633a4f7f1c05035ac8edd442b403f7fc67d4807ee7937097bae150"
+    },
+    {
+      "id": "D070",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D070",
+      "group_name": "ALKALINE BATTERIES",
+      "display_name": "ALKALINE BATTERIES",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "948953",
+        "1028953",
+        "1086384",
+        "820752",
+        "884039",
+        "960060"
+      ],
+      "stable_key": "cbd481f6657ca54e88217c2278799728e5a00a2aa723bb58502918327a56f3fd"
+    },
+    {
+      "id": "D071",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D071",
+      "group_name": "CHOCOLATE MILK",
+      "display_name": "CHOCOLATE MILK",
+      "department": "GROCERY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "908531",
+        "983584",
+        "936508",
+        "1060269",
+        "7409664",
+        "875392"
+      ],
+      "stable_key": "69047f15d764e92e54971857125f03238bd0157b4ee766a487bbc2394ab63f13"
+    },
+    {
+      "id": "D072",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D072",
+      "group_name": "FRZN BURGERS/BBQ/MEATBALL",
+      "display_name": "FRZN BURGERS/BBQ/MEATBALL",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "9487885",
+        "938319",
+        "1085357",
+        "1016782",
+        "1050534",
+        "873847"
+      ],
+      "stable_key": "dd84cf9b0582f2dba6fa64b350aa6969d2cbf6bc563a677ca1360438fe7e7e55"
+    },
+    {
+      "id": "D073",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D073",
+      "group_name": "VEGETABLES ALL OTHER",
+      "display_name": "VEGETABLES ALL OTHER",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "987838",
+        "932179",
+        "845715",
+        "1134398",
+        "1075755",
+        "6633302"
+      ],
+      "stable_key": "f7fee5ececd2d95be92484c2916354c10f1ee5b9f761e280afb2acd978588dd7"
+    },
+    {
+      "id": "D074",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D074",
+      "group_name": "SW GDS: SW ROLLS/DAN",
+      "display_name": "SW GDS: SW ROLLS/DAN",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "890610",
+        "13038913",
+        "9337142",
+        "869755",
+        "917730",
+        "933400"
+      ],
+      "stable_key": "99d1dd69393448b7e9489ec4acf24c0c532992fa248a088bc6b0522c744246fd"
+    },
+    {
+      "id": "D075",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D075",
+      "group_name": "PRIMAL",
+      "display_name": "PRIMAL",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "844179",
+        "999858",
+        "12301109",
+        "1050851",
+        "1051323",
+        "9835509"
+      ],
+      "stable_key": "e9f5f6d746d951925ec9a7e45a304e4e633f7e6ce6e21f617940db320ab2f539"
+    },
+    {
+      "id": "D076",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D076",
+      "group_name": "CARDS EVERYDAY",
+      "display_name": "CARDS EVERYDAY",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1027569",
+        "852856",
+        "1022097",
+        "912704",
+        "5592888",
+        "5981072"
+      ],
+      "stable_key": "aac3387a74c34838e1a37cfa7d4bc0ddf3d6077bbbc5297a07ef0a63cd5bf9a3"
+    },
+    {
+      "id": "D077",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D077",
+      "group_name": "SAUERKRAUT",
+      "display_name": "SAUERKRAUT",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1020682",
+        "834631",
+        "1844435",
+        "1930020",
+        "2487020",
+        "59302"
+      ],
+      "stable_key": "5950ded16dea3f896eeda3cbb1f74c82ff12b530f65291c8c7936dcc53c09d52"
+    },
+    {
+      "id": "D078",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D078",
+      "group_name": "GARDEN PLUS",
+      "display_name": "GARDEN PLUS",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1006184",
+        "995965",
+        "860167",
+        "1107039",
+        "5575228",
+        "51220"
+      ],
+      "stable_key": "f46a7a09007189c3900858fe874b6992179094bc2f6b7d709d9c1c0dc30799cb"
+    },
+    {
+      "id": "D079",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D079",
+      "group_name": "ROLLS: BAGELS",
+      "display_name": "ROLLS: BAGELS",
+      "department": "PASTRY",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1095275",
+        "12810343",
+        "12778508",
+        "12807976",
+        "1137312",
+        "868747"
+      ],
+      "stable_key": "4866a9a687e3afef0f21867eac5f991c03db439cfdf2d7c099731ad0bd54655b"
+    },
+    {
+      "id": "D080",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D080",
+      "group_name": "CHICKEN BREAST BONELESS",
+      "display_name": "CHICKEN BREAST BONELESS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "916122",
+        "897954",
+        "1079987",
+        "996028",
+        "1130029",
+        "12731740"
+      ],
+      "stable_key": "ef534d4c40117fc7ed4c997d9963bba6d466ea5670ebc4e090c20016c0f1838c"
+    },
+    {
+      "id": "D081",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D081",
+      "group_name": "INSIDE FROST BULBS",
+      "display_name": "INSIDE FROST BULBS",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1002739",
+        "1131351",
+        "895039",
+        "1039566",
+        "1022956",
+        "1092692"
+      ],
+      "stable_key": "6148f98a53f252d481e783fd2eeeb378d2eec4c512fad098bb2927267f8be205"
+    },
+    {
+      "id": "D082",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D082",
+      "group_name": "ENTREES",
+      "display_name": "ENTREES",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "940947",
+        "5582712",
+        "1007512",
+        "839162",
+        "1127825",
+        "880284"
+      ],
+      "stable_key": "f004b0230c2b5d7ac9881a3e95b0b0a2214239989d574db1c8aca52bbe66406f"
+    },
+    {
+      "id": "D083",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D083",
+      "group_name": "BROCCOLI WHOLE&CROWNS",
+      "display_name": "BROCCOLI WHOLE&CROWNS",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "903325",
+        "1128783",
+        "173274",
+        "1737318",
+        "1065940",
+        "1498299"
+      ],
+      "stable_key": "79e039a8221747be9377b71053d9701adf5fcd9536e4990137c3e05b35dc0612"
+    },
+    {
+      "id": "D084",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D084",
+      "group_name": "CUBED MEATS",
+      "display_name": "CUBED MEATS",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "944534",
+        "898394",
+        "985758",
+        "1041651",
+        "923184",
+        "1755715"
+      ],
+      "stable_key": "8efb3f157636155e4be0a4023a1253c7129038b8652865d6ca822f265649aa36"
+    },
+    {
+      "id": "D085",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D085",
+      "group_name": "CANDY BARS (MULTI PACK)",
+      "display_name": "CANDY BARS (MULTI PACK)",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "9337581",
+        "10204822",
+        "10285144",
+        "10204487",
+        "1090375",
+        "1008892"
+      ],
+      "stable_key": "70f2b046fceebac1ab1c6d20cc3ab9f9b505b8d9e7be187eacbfa6186ab1ea8d"
+    },
+    {
+      "id": "D086",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D086",
+      "group_name": "KOSHER/SPECIALTY",
+      "display_name": "KOSHER/SPECIALTY",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "925178",
+        "1013389",
+        "9707498",
+        "888054",
+        "872189",
+        "904943"
+      ],
+      "stable_key": "991d869e4f758c15151c318b695480ef664c1244844f1bea47a3f247c4619b7b"
+    },
+    {
+      "id": "D087",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D087",
+      "group_name": "ORGANIC VEGETABLES ALL OTHERS",
+      "display_name": "ORGANIC VEGETABLES ALL OTHERS",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1083846",
+        "825180",
+        "12262492",
+        "1130179",
+        "12262491",
+        "7169034"
+      ],
+      "stable_key": "e22dd8ae1c2a1865169d8b88bde447aae6d0dd748b6ae47438d2678b1999d5fc"
+    },
+    {
+      "id": "D088",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D088",
+      "group_name": "CHOICE BEEF",
+      "display_name": "CHOICE BEEF",
+      "department": "MEAT",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "863447",
+        "823990",
+        "828106",
+        "831628",
+        "848029",
+        "948650"
+      ],
+      "stable_key": "67b36f2d4d17d7e1f1ed3b84f0fcaab593bb681a1780cb540f62f648bcf3ac84"
+    },
+    {
+      "id": "D089",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D089",
+      "group_name": "BAR SOAP",
+      "display_name": "BAR SOAP",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1100049",
+        "999063",
+        "1025326",
+        "920654",
+        "1052439",
+        "968737"
+      ],
+      "stable_key": "b7e57aacce0ec16b2371643c27f2f77a75bac7c9d445b9bc727f25983cdbc10c"
+    },
+    {
+      "id": "D090",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D090",
+      "group_name": "VARIETY PACK",
+      "display_name": "VARIETY PACK",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "7025203",
+        "7464370",
+        "1075786",
+        "912914",
+        "1120009",
+        "875948"
+      ],
+      "stable_key": "6e6eab0f617e1c3ff0d00bb5312aa525053e4b5d277f7a28e949ceeb535711ce"
+    },
+    {
+      "id": "D091",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D091",
+      "group_name": "RASPBERRIES",
+      "display_name": "RASPBERRIES",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "878857",
+        "6034780",
+        "1057102",
+        "5996380",
+        "9706995",
+        "1057114"
+      ],
+      "stable_key": "9495a4146e841c29f78ae9f3d931f7bd9e07d4ebb6bc7d23fd91908192bb7723"
+    },
+    {
+      "id": "D092",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D092",
+      "group_name": "NEWSPAPER",
+      "display_name": "NEWSPAPER",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1039156",
+        "894236",
+        "1068651",
+        "968936",
+        "869195",
+        "1104224"
+      ],
+      "stable_key": "fd1d2b5bccf6f399a34ab93ac599ad8abc38c78e3deb603c567963fc63195807"
+    },
+    {
+      "id": "D093",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D093",
+      "group_name": "MISCELLANEOUS",
+      "display_name": "MISCELLANEOUS",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1132280",
+        "832442",
+        "1073902",
+        "9836903",
+        "10180324",
+        "940726"
+      ],
+      "stable_key": "900d4200e95393a67807d21ae4da070e53b3aec2c4c45a14d28160a516dba829"
+    },
+    {
+      "id": "D094",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D094",
+      "group_name": "GRAPES WHITE",
+      "display_name": "GRAPES WHITE",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "866211",
+        "687292",
+        "13776505",
+        "918846",
+        "1256150",
+        "1609854"
+      ],
+      "stable_key": "74c4bf4f2f47e50022cfeca4e5b67c63bdf451e5b1c20ca437c59a6077ed19cd"
+    },
+    {
+      "id": "D095",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D095",
+      "group_name": "CARDS SEASONAL",
+      "display_name": "CARDS SEASONAL",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "13039424",
+        "13040302",
+        "12524086",
+        "12525302",
+        "855800",
+        "980546"
+      ],
+      "stable_key": "4b78c3138a8089532f17c8785c0da6950d54a0ff116d0048ecae3f99c1bfbc72"
+    },
+    {
+      "id": "D096",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D096",
+      "group_name": "LINKS - RAW",
+      "display_name": "LINKS - RAW",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "989069",
+        "962185",
+        "841220",
+        "1050482",
+        "859426",
+        "1103691"
+      ],
+      "stable_key": "732a764e63b0b836b8a997222abb8fc9eab93ca49683ea7d1e056ce4afaf22aa"
+    },
+    {
+      "id": "D097",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D097",
+      "group_name": "APPLES GALA (BULK&BAG)",
+      "display_name": "APPLES GALA (BULK&BAG)",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "901062",
+        "976065",
+        "996070",
+        "1138854",
+        "1159630",
+        "1163749"
+      ],
+      "stable_key": "9c850944f1d8cc86d10d32595a1e20d4895313b1fe36aa0e77aab7d6d51c62b7"
+    },
+    {
+      "id": "D098",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D098",
+      "group_name": "CHEWING GUM",
+      "display_name": "CHEWING GUM",
+      "department": "DRUG GM",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "1018588",
+        "13095243",
+        "997200",
+        "1103556",
+        "1129822",
+        "970792"
+      ],
+      "stable_key": "7b9812bd2074e75024be817b8244e582c1750577d7140b1de5c577ad0b420a91"
+    },
+    {
+      "id": "D099",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D099",
+      "group_name": "PATTIES - RAW",
+      "display_name": "PATTIES - RAW",
+      "department": "MEAT-PCKGD",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "923670",
+        "1002850",
+        "12782181",
+        "1064574",
+        "885070",
+        "1075032"
+      ],
+      "stable_key": "cbefaa17a11d9ee9cbf88d43af1560605284d75ecebc1780350af0de7fb67ae0"
+    },
+    {
+      "id": "D100",
+      "control": false,
+      "source_root": "confirm",
+      "source_set": "D100",
+      "group_name": "ONIONS OTHER",
+      "display_name": "ONIONS OTHER",
+      "department": "PRODUCE",
+      "cohort": "DEPARTMENT_CHALLENGE",
+      "candidate_products": [
+        "834484",
+        "913459",
+        "1056982",
+        "2660976",
+        "820306",
+        "1089910"
+      ],
+      "stable_key": "63b813bb35e4a0b312c8a27875b0af2f9d5ecc1db9f4492ad7f43f2f565d23c7"
+    }
+  ],
+  "source_hashes": [
+    {
+      "path": "C:\\MR\\data\\CJ9\\products.parquet",
+      "size": 1382343,
+      "sha256": "2a356a81037c55a44a6d50d8e460aa6afda208bc0575c29a5502fa380fcf8ccb"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w01.parquet",
+      "size": 69579,
+      "sha256": "16e4265e3172b069c92d8eb53bf2241cc3f50913b1e79da28d7b98a34e245033"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w02.parquet",
+      "size": 429770,
+      "sha256": "db77965845d7399573983b83d5d5892b081f4f11fb6845c45f9c083d7a155211"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w03.parquet",
+      "size": 391564,
+      "sha256": "13525682cc0602a24fb131333050eae00f16be8785e3c302ac36a643fe39f7ec"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w04.parquet",
+      "size": 402523,
+      "sha256": "9db5a5bebc05ddc7893d7fe1af7d7e8cf070005ac9082697688da90038d96916"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w05.parquet",
+      "size": 382920,
+      "sha256": "7ab4b604304c53a78ecc3677775bc8b74acdd10799fceccba935de717532d99d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w06.parquet",
+      "size": 430128,
+      "sha256": "6db80bf54178353c9eeeeba5d8e75e4a51bb432570eb69ca85f7e72615bb23f5"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w07.parquet",
+      "size": 411027,
+      "sha256": "7235ada27bc6f9ce249ff6c909d8f60f34340646b4d1b04b191436caaefe3f60"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w08.parquet",
+      "size": 377811,
+      "sha256": "8010d08d0b8fd80f1a1e68293df1b272a3b5d1ecae49ce34e79b1ae0f687758c"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w09.parquet",
+      "size": 409221,
+      "sha256": "5759b054e5ef90522254775d4f1a29a1aae3dc4ead2fa909a300adc0cc6d1f7b"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w10.parquet",
+      "size": 413712,
+      "sha256": "1083fd7f310734702f5c640ed873ff12eb73148a56d96da6778795a7de5e728d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w11.parquet",
+      "size": 400970,
+      "sha256": "1d2011d4d0d25d23248ec986072955beb5a1195c7d25f6d5b8126edc0e66d3a3"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w12.parquet",
+      "size": 398255,
+      "sha256": "c4fc7382d713cdbcc2a8303e14b6e60fe2eaba440c1344249d222ba5b1d1f41e"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w13.parquet",
+      "size": 397385,
+      "sha256": "ab843bc2bd3776e0077829987248b01b436e545dca080d6beb1678aa2595f82e"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w14.parquet",
+      "size": 401477,
+      "sha256": "0778d4a988866b4f9e980d9acd1fca7f2bff0443326895b6159b77045f68274a"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w15.parquet",
+      "size": 414337,
+      "sha256": "2bd27cb73c9e0aa66b1a40f2fbc45106b78e442268c1504bdb6c069cd7c25658"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w16.parquet",
+      "size": 406353,
+      "sha256": "29592139bd7f6ef873d1d8ebe3ffad27c20a48ead17dd4b15a895a0c2cb905af"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w17.parquet",
+      "size": 385379,
+      "sha256": "74080a67dcbe171b6444db207f63de9996f0f85121339bd1ff291eb7da151291"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w18.parquet",
+      "size": 383109,
+      "sha256": "bb09d036080c57080ce768085e167432d24e1a2177af26d23f6869de1e75f79d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w19.parquet",
+      "size": 435576,
+      "sha256": "a302f269295e8446b4ca53838adeac0afe1533bceccaeaf3be7c8a0ca89ba1dd"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w20.parquet",
+      "size": 409505,
+      "sha256": "ffbbf1c7bf57017547bd08d778967c7310bd9fe072ea1e9111f4442901c24425"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w21.parquet",
+      "size": 416643,
+      "sha256": "674f31bb86df6c47b876e4a0190f8bdb99718b58d04fc6b9a50894469d2a7c00"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w22.parquet",
+      "size": 394925,
+      "sha256": "e4c0713647dc3da27b5d7a4b3ed796000820223bfa96b233e8c61da02ceb26a6"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w23.parquet",
+      "size": 416420,
+      "sha256": "14f70b82212146d3359c4b45563e9a728ca6f5745f656fb5948b8a288bced0bf"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w24.parquet",
+      "size": 411954,
+      "sha256": "0020593f020f2f9d330c9328a7787da9a3f7f48ebb896acd5acfe9b00eb580ba"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w25.parquet",
+      "size": 399616,
+      "sha256": "6e07cf4288e6195b9f8f729b9fff44c5a4b5a74344de39f2e22f6c5d98f9495e"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w26.parquet",
+      "size": 376944,
+      "sha256": "b03a3c6907fc73c0ab2c1222654aac86f82d2379accfba8f4ee48ff11254df5a"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w27.parquet",
+      "size": 407305,
+      "sha256": "20556d3acd49ef315904fb25d3cc9dcedb2f139bce1a02359e6d5413bb1c2bed"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w28.parquet",
+      "size": 442039,
+      "sha256": "ef809213953fd3830aa704d55e5429b6860cf5ee92450f8d123374004cf78ea5"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w29.parquet",
+      "size": 392617,
+      "sha256": "fef28499fe995baea5818460bf40f1c7560a6474c7637b028048de0b6de5c241"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w30.parquet",
+      "size": 392263,
+      "sha256": "132446acc1277254c5babc510a85342984cb30f1b12b38fb0b2d5fbe99ed751d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w31.parquet",
+      "size": 386564,
+      "sha256": "290a14ef66efcdae87b1aff37660832f7b595886866f87d8985d05e1f3cad9bc"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w32.parquet",
+      "size": 435818,
+      "sha256": "5d81678ae075f943b137ca3ce40735e1bcbc64b61232d32af53d3fdf858ce591"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w33.parquet",
+      "size": 405933,
+      "sha256": "710ab126f42b7cdcec6f23b331238eec682a461d28f9f8709050d2f209b758a0"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w34.parquet",
+      "size": 398571,
+      "sha256": "8e2d3b930a4bedc793d037b7bb86509a8a32ffa92615944f2ff22f3e2760f807"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w35.parquet",
+      "size": 391753,
+      "sha256": "cdf5fc46637509e343665209febf1b6d183546e080d58328f0fb95b330d805a6"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w36.parquet",
+      "size": 399102,
+      "sha256": "807e9175cf3adb2f715b642a4b80466eeb8560d74192e574630401082b536fb8"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w37.parquet",
+      "size": 420936,
+      "sha256": "c1d8a7e6a640c4096147a4abc7799492febbb5b9a7a37792cc71a1cc1907c960"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w38.parquet",
+      "size": 378903,
+      "sha256": "5a1466a2121eb22e01a3fe966143958fe1d9409b8b373501c9b4da337cb91595"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w39.parquet",
+      "size": 399432,
+      "sha256": "100a5d06b48032c78d546f0a4d2269020727f67508d6295d776b46181362d0db"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w40.parquet",
+      "size": 392709,
+      "sha256": "443a4127f1eaf8fb178bcfb1297ded9970beeca4f98b85e8b3bc6d90e880b2fb"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w41.parquet",
+      "size": 411582,
+      "sha256": "27ba73a25f579664e2cc8fac80b19fe34b37cf89905dc977efff526b9cade33f"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w42.parquet",
+      "size": 398522,
+      "sha256": "27b7dd1f282098908efe812011ac28636d995a87eca44ecca7c4c74116cd6cce"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w43.parquet",
+      "size": 387300,
+      "sha256": "d0ce1c57ff57a1771278a8cc5b1174b0da224dc80bea115fe3745d7b002d3690"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w44.parquet",
+      "size": 400786,
+      "sha256": "2c20c9518c747840e140ff1e5932822b539eb0f4e3687bda9fb2a77bd3ceeb8d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w45.parquet",
+      "size": 438251,
+      "sha256": "7c44e7b6962f49538ad50c629f9bc45b70fc4879a626d6e775eecc354c8a6e8d"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w46.parquet",
+      "size": 403948,
+      "sha256": "5bb82806405a2bdba5ec76af2b88a6ecd016aa6f9805fccecb6e64bd2a4f7259"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w47.parquet",
+      "size": 408331,
+      "sha256": "6baeaf3576333f8dba9aa19ad17a1a70d2ef2e9f76d4bd822553bac3d9f344d0"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w48.parquet",
+      "size": 411813,
+      "sha256": "46319dfba715aef382804d8ee69277d0696029382c43c7fcb42704051b6614bb"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w49.parquet",
+      "size": 411255,
+      "sha256": "2e8fb6f277c163301f68632c11c41162c978ae9906cfa76854f4724828c699af"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w50.parquet",
+      "size": 417031,
+      "sha256": "ca0a51adb5cb5fb4de625d1f13b401aa6542538817d0e8e98e4d39e143c767d2"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w51.parquet",
+      "size": 394890,
+      "sha256": "7caca9aef61156eb4d44b27fe98c2b45250dbad4b16929e99b6bb57af2c95344"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w52.parquet",
+      "size": 467884,
+      "sha256": "779e1b577dded7173837ac05bff038d10a9c545772ec20f715dd1624dc2b1a43"
+    },
+    {
+      "path": "C:\\MR\\data\\CJ9\\tx\\w53.parquet",
+      "size": 363017,
+      "sha256": "83440572eb2220c086d7d218fedf1e382057af2567e82fae853073547053d0c9"
+    }
+  ],
+  "materializer_sha256": "c7643059502f6b2d0048a734a0c5ea2a64e034dc90b4f3f7ed865a2e7b3ecf7b",
+  "roots_cfg_sha256": "98d44401cf764b1b2b5dcd25a8e90324993aa76eb184ca4aa6ecd07ffc4e612b",
+  "frozen_prior_sha256": "43a1ba24a1e236c5baaf3096a865c9e52fa576023259143958a239a173190e96",
+  "future_outcome_used_for_selection": false,
+  "p1_recalibrated": false
+}

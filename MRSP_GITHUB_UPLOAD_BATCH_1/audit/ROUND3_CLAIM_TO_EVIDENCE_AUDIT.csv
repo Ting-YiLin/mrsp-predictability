@@ -1,0 +1,9 @@
+﻿claim_id,evidence_id,evidence_exists,public_file,public_file_exists,status
+C1,E013,True,README.md,True,PASS
+C2,E001,True,README.md,True,PASS
+C3,E006,True,REPORT.md,True,PASS
+C4,E007,True,docs/methods.md,True,PASS
+C5,E008,True,README.md,True,PASS
+C6,E010,True,README.md,True,PASS
+C7,E011,True,REPORT.md,True,PASS
+C8,E010,True,README.md,True,PASS

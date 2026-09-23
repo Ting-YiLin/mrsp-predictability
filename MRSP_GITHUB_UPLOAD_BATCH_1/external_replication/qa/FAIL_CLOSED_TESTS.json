@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tests": {
+    "duplicate_event_id": "FAIL_CLOSED",
+    "unknown_product_group": "FAIL_CLOSED",
+    "target_outside_six_sku_manifest": "FAIL_CLOSED",
+    "week_time_inversion": "FAIL_CLOSED",
+    "current_label_leak_regression": "PASS"
+  }
+}

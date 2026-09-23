@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "comparison": "strict external runner vs frozen confirmatory authority implementation",
+  "max_p1_abs_error": 2.220446049250313e-16,
+  "max_market_p_abs_error": 0.0,
+  "max_hh_count_abs_error": 0.0,
+  "b1_lambda_maps": "EXACT_MATCH_ALL_W1_W6",
+  "b1_eval_predictions": "EXACT_MATCH_ALL_W1_W6_FIXTURE"
+}

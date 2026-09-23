@@ -1,0 +1,10 @@
+{
+  "p1_formula_frozen": true,
+  "p1_cutoffs_recalibrated": false,
+  "prior_gen1_groups_excluded": true,
+  "selection_uses_week_le_22_only": true,
+  "w3_w6_outcomes_used_for_selection": false,
+  "b2_used": false,
+  "learned_gate_used": false,
+  "representative_and_challenge_disjoint": true
+}

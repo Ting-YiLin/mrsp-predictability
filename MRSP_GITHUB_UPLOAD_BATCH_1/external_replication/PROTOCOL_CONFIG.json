@@ -1,0 +1,81 @@
+{
+  "protocol": "MRSP_EXTERNAL_STRICT_ZERO_SHOT_V1",
+  "protocol_version": "1.0.0",
+  "choice_set_size": 6,
+  "study_weeks": 53,
+  "lambda_grid": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    8.0,
+    12.0,
+    20.0,
+    40.0
+  ],
+  "blocks": [
+    {
+      "id": "W1",
+      "fit_max": 17,
+      "tune_min": 18,
+      "tune_max": 22,
+      "eval_min": 23,
+      "eval_max": 27
+    },
+    {
+      "id": "W2",
+      "fit_max": 22,
+      "tune_min": 23,
+      "tune_max": 27,
+      "eval_min": 28,
+      "eval_max": 32
+    },
+    {
+      "id": "W3",
+      "fit_max": 27,
+      "tune_min": 28,
+      "tune_max": 32,
+      "eval_min": 33,
+      "eval_max": 37
+    },
+    {
+      "id": "W4",
+      "fit_max": 32,
+      "tune_min": 33,
+      "tune_max": 37,
+      "eval_min": 38,
+      "eval_max": 42
+    },
+    {
+      "id": "W5",
+      "fit_max": 37,
+      "tune_min": 38,
+      "tune_max": 42,
+      "eval_min": 43,
+      "eval_max": 47
+    },
+    {
+      "id": "W6",
+      "fit_max": 42,
+      "tune_min": 43,
+      "tune_max": 47,
+      "eval_min": 48,
+      "eval_max": 53
+    }
+  ],
+  "reported_eval_blocks": [
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "p1_cutoffs": {
+    "0.6": 0.3608488067145302,
+    "0.7": 0.5231119438280639,
+    "0.8": 0.6660270791857679
+  },
+  "b2_used": false,
+  "learned_gate_used": false,
+  "p1_recalibration_allowed": false
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "evidence_scope": "SYNTHETIC_FIXTURE_ONLY",
+  "protocol": "MRSP_EXTERNAL_STRICT_ZERO_SHOT_V1",
+  "runner_status": "PASS",
+  "validator_status": "PASS",
+  "authority_equivalence": "PASS",
+  "fail_closed_adversarial_tests": "PASS",
+  "note": "Synthetic fixture validates code path only and is not external scientific evidence."
+}
