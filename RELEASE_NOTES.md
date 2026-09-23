@@ -12,4 +12,4 @@ Primary confirmatory result: 41.08% coverage / 77.17% accuracy, 22.00% / 84.78%,
 
 Round 3 performed an independent claim-to-evidence audit, public-path/privacy audit, frozen-package completeness check, fresh-reproducer simulation, formula/import checks, and clean-room ZIP verification. No scientific claim required downgrading. Release-engineering defects were repaired without changing the frozen scientific rules.
 
-Raw transaction data are not redistributed. A public code reuse license has not yet been selected; see `LICENSE_PENDING.md`.
+Raw transaction data are not redistributed. Repository contents are **All Rights Reserved**; see `RIGHTS_NOTICE.md` for the rights notice.

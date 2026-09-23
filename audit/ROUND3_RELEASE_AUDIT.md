@@ -22,4 +22,4 @@ No approved claim C1–C8 required downgrading. The strongest evidence grade rem
 - private local path scan: PASS
 
 ## Remaining non-scientific owner decision
-A public code license has not been selected. This does not affect the scientific seal, but it affects third-party legal reuse rights. Raw transaction data remain excluded.
+At the time of the Round 3 audit, a public code license had not been selected. The owner subsequently designated All Rights Reserved on 2026-09-23; see `RIGHTS_NOTICE.md`. This does not affect the scientific seal. Raw transaction data remain excluded.

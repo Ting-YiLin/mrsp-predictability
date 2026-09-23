@@ -37,4 +37,4 @@ No new research and no model retuning. Round 3 was limited to:
 - clean-room ZIP extraction and rerun: PASS (recorded at sealing)
 
 ## Remaining owner-level legal choice
-No public code license has yet been selected. Raw transaction data are not redistributed. This does not affect the scientific seal, but a license is needed before implying third-party reuse rights.
+At the time of the Round 3 completion record, a public code license had not been selected. The owner subsequently designated All Rights Reserved on 2026-09-23; see `RIGHTS_NOTICE.md`. Raw transaction data are not redistributed. This does not affect the scientific seal; third-party reuse rights are not granted.

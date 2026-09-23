@@ -11,7 +11,5 @@
 - [x] No private local username/path remains in the public package.
 - [x] Raw transaction data excluded.
 
-## Owner choice before granting reuse rights
-- [ ] Select a public code/documentation license (for example MIT/Apache-2.0 or another owner-selected license).
-
-The repository can be published for inspection before a license is selected, but third-party reuse rights should not be implied.
+## Rights notice
+- [x] All Rights Reserved; no license is granted to reproduce, redistribute, modify, or commercially use repository contents without prior written permission. See `RIGHTS_NOTICE.md`.
