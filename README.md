@@ -133,4 +133,4 @@ MRSP_PREDICTABILITY_RELEASE_V1.0/
 
 ## Release status
 
-This is the **Round 2 release**. Round 3 is reserved for an independent release audit, fresh-reproducer simulation, claim-to-evidence audit, and final V1.0 sealing.
+This public release has completed the Round 3 independent release audit and final V1.0 sealing. See RELEASE_NOTES.md for the final audit scope.
